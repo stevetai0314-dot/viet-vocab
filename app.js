@@ -1,4 +1,4 @@
-const GAS_URL = 'YOUR_GAS_URL'; // 替換成你的 GAS Web App URL（部署後取得）
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbweY_2yO-vo3Zx8hSVejTjzuuatzjd2GwdYJuWS00bGwhRCj1CmuS2-o9BJF7qYqgiw/exec';
 
 // ─── API ───────────────────────────────────────────────
 async function apiGet(params) {
