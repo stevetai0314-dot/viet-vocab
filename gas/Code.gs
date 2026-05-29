@@ -1,4 +1,4 @@
-const SS_ID = 'YOUR_SPREADSHEET_ID_HERE'; // 替換成你的試算表 ID
+const SS_ID = '1K77jslRU-eL-h4YM5VMCafl9anqIu3njQGKA3rwFsXg';
 const TZ = 'Asia/Ho_Chi_Minh';
 
 function getSheets() {
