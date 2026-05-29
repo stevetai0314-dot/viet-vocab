@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>匯入詞彙</title>
+  <style>
+    :root {
+      --bg: #fafaf5;
+      --ink: #1c1c1c;
+      --accent: #c45c00;
+      --muted: #888;
+      --border: #ddd;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: 'Courier New', monospace;
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 { font-size: 1.4rem; margin-bottom: 8px; }
+    p { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+    textarea {
+      width: 100%;
+      height: 320px;
+      border: 2px solid var(--border);
+      border-radius: 6px;
+      padding: 12px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.8rem;
+      resize: vertical;
+      background: #fff;
+    }
+    textarea:focus { outline: none; border-color: var(--accent); }
+    .row { display: flex; gap: 10px; margin-top: 12px; }
+    button {
+      padding: 10px 20px;
+      border: 2px solid var(--ink);
+      border-radius: 6px;
+      background: var(--ink);
+      color: var(--bg);
+      font-family: 'Courier New', monospace;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    button:hover { background: var(--accent); border-color: var(--accent); }
+    button.secondary {
+      background: transparent;
+      color: var(--ink);
+    }
+    button.secondary:hover { background: var(--border); color: var(--ink); border-color: var(--border); }
+    button:disabled { opacity: 0.4; cursor: not-allowed; }
+    #status {
+      margin-top: 16px;
+      padding: 12px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      display: none;
+    }
+    #status.ok { background: #e6f4ea; border: 1px solid #a8d5b5; color: #2d6a3f; }
+    #status.err { background: #fdecea; border: 1px solid #f5c6cb; color: #7b2a2a; }
+    #status.loading { background: #fff8e1; border: 1px solid #ffe082; color: #7a5c00; }
+    .preview-row {
+      margin-top: 8px;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <h1>詞彙匯入工具</h1>
+  <p>貼入 CSV 內容（格式：vietnamese,chinese,word_type,example），點擊匯入即可。</p>
+
+  <textarea id="csv-input" placeholder="vietnamese,chinese,word_type,example
+xin chào,你好,phrase,Xin chào bạn
+cảm ơn,謝謝,phrase,Cảm ơn bạn rất nhiều
+..."></textarea>
+
+  <div class="preview-row" id="line-count"></div>
+
+  <div class="row">
+    <button id="btn-import" onclick="doImport()">匯入</button>
+    <button class="secondary" onclick="loadFile()">載入檔案</button>
+    <input type="file" id="file-input" accept=".csv" style="display:none" onchange="onFileChange(event)">
+  </div>
+
+  <div id="status"></div>
+
+  <script>
+    const GAS_URL = 'https://script.google.com/macros/s/AKfycbweY_2yO-vo3Zx8hSVejTjzuuatzjd2GwdYJuWS00bGwhRCj1CmuS2-o9BJF7qYqgiw/exec';
+
+    const textarea = document.getElementById('csv-input');
+    textarea.addEventListener('input', updateCount);
+
+    function updateCount() {
+      const lines = textarea.value.trim().split('\n').filter(l => l.trim()).length;
+      const words = Math.max(0, lines - 1);
+      document.getElementById('line-count').textContent = words > 0 ? `預計匯入 ${words} 個詞彙` : '';
+    }
+
+    function loadFile() {
+      document.getElementById('file-input').click();
+    }
+
+    function onFileChange(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = ev => {
+        textarea.value = ev.target.result;
+        updateCount();
+      };
+      reader.readAsText(file, 'UTF-8');
+    }
+
+    async function doImport() {
+      const csv = textarea.value.trim();
+      if (!csv) return;
+
+      const btn = document.getElementById('btn-import');
+      const status = document.getElementById('status');
+
+      btn.disabled = true;
+      status.className = 'loading';
+      status.style.display = 'block';
+      status.textContent = '匯入中，請稍候...';
+
+      try {
+        const res = await fetch(GAS_URL, {
+          method: 'POST',
+          body: JSON.stringify({ action: 'initVocab', csv })
+        });
+        const data = await res.json();
+
+        if (data.error) {
+          status.className = 'err';
+          status.textContent = '錯誤：' + data.error;
+        } else {
+          status.className = 'ok';
+          status.textContent = `✓ 成功匯入 ${data.imported} 個詞彙！`;
+        }
+      } catch (e) {
+        status.className = 'err';
+        status.textContent = '連線失敗：' + e.message;
+      } finally {
+        btn.disabled = false;
+      }
+    }
+  </script>
+</body>
+</html>
