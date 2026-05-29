@@ -1,0 +1,667 @@
+vietnamese,chinese,word_type,example
+xin chào,你好,phrase,Xin chào bạn
+cảm ơn,謝謝,phrase,Cảm ơn rất nhiều
+xin lỗi,對不起,phrase,Xin lỗi tôi đến trễ
+không có gì,沒關係,phrase,Không có gì
+vâng,是（禮貌）,adv,Vâng tôi hiểu
+không,不/否,adv,Không tôi không biết
+tôi,我,pron,Tôi là người Đài Loan
+bạn,你,pron,Bạn tên là gì
+anh,哥哥/男性稱謂,n,Anh ơi giúp tôi
+chị,姐姐/女性稱謂,n,Chị làm ở đâu
+ông,祖父/男性敬稱,n,Ông ấy tốt lắm
+bà,祖母/女性敬稱,n,Bà ơi
+em,弟弟/妹妹/晚輩,n,Em tên là gì
+chúng tôi,我們,pron,Chúng tôi làm việc ở đây
+họ,他們,pron,Họ đến rồi
+đây,這裡/這個,pron,Đây là gì
+đó,那裡/那個,pron,Đó là máy mới
+ai,誰,pron,Ai làm việc này
+gì,什麼,pron,Bạn muốn gì
+ở đâu,在哪裡,phrase,Bạn ở đâu
+tại sao,為什麼,phrase,Tại sao máy hỏng
+khi nào,什麼時候,phrase,Khi nào xong
+bao nhiêu,多少,phrase,Bao nhiêu tiền
+một,一,num,Một cái máy
+hai,二,num,Hai người
+ba,三,num,Ba ngày
+bốn,四,num,Bốn giờ
+năm,五,num,Năm phút
+sáu,六,num,Sáu tháng
+bảy,七,num,Bảy ngàn
+tám,八,num,Tám trăm
+chín,九,num,Chín cái
+mười,十,num,Mười lăm phút
+mười một,十一,num,
+mười hai,十二,num,
+mười ba,十三,num,
+mười bốn,十四,num,
+mười lăm,十五,num,
+hai mươi,二十,num,
+ba mươi,三十,num,
+bốn mươi,四十,num,
+năm mươi,五十,num,
+một trăm,一百,num,
+hai trăm,兩百,num,
+một nghìn,一千,num,
+một triệu,一百萬,num,
+thứ nhất,第一,num,
+thứ hai,第二/星期一,num,
+thứ ba,第三/星期二,num,
+thứ tư,星期三,n,
+thứ năm,星期四,n,
+thứ sáu,星期五,n,
+thứ bảy,星期六,n,
+chủ nhật,星期日,n,
+tháng một,一月,n,
+tháng hai,二月,n,
+tháng ba,三月,n,
+tháng tư,四月,n,
+tháng năm,五月,n,
+tháng sáu,六月,n,
+tháng bảy,七月,n,
+tháng tám,八月,n,
+tháng chín,九月,n,
+tháng mười,十月,n,
+tháng mười một,十一月,n,
+tháng mười hai,十二月,n,
+năm nay,今年,n,
+năm ngoái,去年,n,
+năm sau,明年,n,
+tuần này,這週,n,
+tuần trước,上週,n,
+tuần sau,下週,n,
+hôm nay,今天,n,Hôm nay là thứ mấy
+ngày mai,明天,n,Ngày mai tôi nghỉ
+hôm qua,昨天,n,Hôm qua tôi đi làm
+sáng,早上,n,Buổi sáng
+trưa,中午,n,Buổi trưa
+chiều,下午,n,Buổi chiều
+tối,晚上,n,Buổi tối
+đêm,夜晚,n,Ban đêm
+giờ,小時/點鐘,n,Mấy giờ rồi
+phút,分鐘,n,Năm phút nữa
+giây,秒,n,Mười giây
+bây giờ,現在,adv,Bây giờ mấy giờ
+sau,之後,adv,Sau khi làm xong
+trước,之前,adv,Trước khi đi
+sớm,早/盡快,adv,Đến sớm nhé
+muộn,晚/遲,adv,Muộn quá rồi
+đúng giờ,準時,phrase,Đến đúng giờ
+đỏ,紅色,adj,Màu đỏ
+xanh lá,綠色,adj,Màu xanh lá
+xanh dương,藍色,adj,Màu xanh dương
+vàng,黃色,adj,Màu vàng
+trắng,白色,adj,Màu trắng
+đen,黑色,adj,Màu đen
+cam,橙色,adj,Màu cam
+tím,紫色,adj,Màu tím
+hồng,粉紅色,adj,Màu hồng
+nâu,棕色,adj,Màu nâu
+xám,灰色,adj,Màu xám
+bạc,銀色,adj,Màu bạc
+vàng kim,金色,adj,Màu vàng kim
+bố,爸爸,n,Bố tôi làm công nhân
+mẹ,媽媽,n,Mẹ tôi nấu ăn giỏi
+con trai,兒子,n,Con trai tôi học giỏi
+con gái,女兒,n,Con gái tôi xinh lắm
+anh trai,哥哥,n,Anh trai tôi làm kỹ sư
+chị gái,姐姐,n,Chị gái tôi đẹp lắm
+em trai,弟弟,n,Em trai tôi còn nhỏ
+em gái,妹妹,n,Em gái tôi học lớp mười
+ông nội,爺爺,n,
+bà nội,奶奶,n,
+ông ngoại,外公,n,
+bà ngoại,外婆,n,
+chồng,丈夫,n,Chồng tôi tên là Minh
+vợ,妻子,n,Vợ tôi làm giáo viên
+con,孩子,n,Có mấy con rồi
+gia đình,家庭,n,Gia đình tôi có bốn người
+bạn bè,朋友,n,Bạn bè tôi nhiều lắm
+hàng xóm,鄰居,n,Hàng xóm tốt bụng
+đồng nghiệp,同事,n,Đồng nghiệp thân thiện
+sếp,老闆/上司,n,Sếp tôi nghiêm lắm
+nhân viên,員工,n,Nhân viên làm việc chăm chỉ
+đầu,頭,n,Đầu tôi đau
+tóc,頭髮,n,Tóc đen dài
+mắt,眼睛,n,Mắt to đẹp
+tai,耳朵,n,Tai tôi nghe kém
+mũi,鼻子,n,Mũi cao
+miệng,嘴巴,n,Miệng rộng
+răng,牙齒,n,Răng trắng
+lưỡi,舌頭,n,Lưỡi đắng
+cổ,脖子,n,Cổ dài
+vai,肩膀,n,Vai rộng
+tay,手/手臂,n,Tay tôi đau
+ngón tay,手指,n,Ngón tay dài
+bàn tay,手掌,n,
+lưng,背部,n,Lưng tôi đau
+bụng,肚子/腹部,n,Bụng đói
+chân,腳/腿,n,Chân tôi mỏi
+ngón chân,腳趾,n,
+tim,心臟,n,Tim đập nhanh
+phổi,肺,n,Phổi khỏe
+gan,肝,n,
+thận,腎臟,n,
+xương,骨頭,n,Xương bị gãy
+da,皮膚,n,Da mịn
+máu,血液,n,Nhóm máu A
+gạo,米,n,Gạo trắng
+cơm,飯,n,Ăn cơm chưa
+bánh mì,麵包,n,Bánh mì thơm
+mì,麵條,n,Mì xào ngon
+phở,河粉,n,Phở bò ngon
+cháo,粥,n,Cháo gà
+bún,米線,n,Bún bò Huế
+thịt,肉,n,Thịt lợn
+thịt bò,牛肉,n,Thịt bò xào
+thịt lợn,豬肉,n,Thịt lợn kho
+thịt gà,雞肉,n,Thịt gà luộc
+cá,魚,n,Cá chiên giòn
+tôm,蝦,n,Tôm hấp
+cua,螃蟹,n,Cua rang muối
+trứng,雞蛋,n,Trứng chiên
+sữa,牛奶,n,Uống sữa mỗi ngày
+pho mát,起司,n,
+đường,糖,n,Thêm đường vào
+muối,鹽,n,Thêm muối vào
+tiêu,胡椒,n,Tiêu đen
+ớt,辣椒,n,Ớt cay lắm
+tỏi,大蒜,n,Tỏi phi thơm
+hành,蔥/洋蔥,n,Hành lá
+gừng,薑,n,Gừng tươi
+dầu ăn,食用油,n,Dầu ăn sạch
+nước mắm,魚露,n,Nước mắm ngon
+nước,水,n,Uống nước
+trà,茶,n,Uống trà
+cà phê,咖啡,n,Cà phê đen
+bia,啤酒,n,Uống bia
+rượu,酒,n,Rượu vang
+nước cam,柳橙汁,n,
+nước dừa,椰子水,n,
+táo,蘋果,n,Ăn táo mỗi ngày
+chuối,香蕉,n,Chuối chín vàng
+cam,柳橙,n,Cam ngọt lắm
+xoài,芒果,n,Xoài chín thơm
+dứa,鳳梨,n,Dứa chua ngọt
+dưa hấu,西瓜,n,Dưa hấu mát
+nho,葡萄,n,Nho đen ngọt
+dâu tây,草莓,n,Dâu tây đỏ
+đu đủ,木瓜,n,Đu đủ chín
+nhãn,龍眼,n,Nhãn ngọt
+vải,荔枝,n,Vải thiều
+mít,菠蘿蜜,n,
+bơ,酪梨,n,Bơ chín rồi
+me,羅望子,n,
+chanh,檸檬,n,Nước chanh tươi
+cà chua,番茄,n,Cà chua đỏ
+cà rốt,紅蘿蔔,n,Cà rốt ngọt
+khoai tây,馬鈴薯,n,Khoai tây chiên
+khoai lang,地瓜,n,Khoai lang nướng
+hành tây,洋蔥,n,Hành tây xào
+bắp cải,高麗菜,n,Bắp cải xào
+rau muống,空心菜,n,Rau muống xào tỏi
+rau cải,青菜,n,
+bí đỏ,南瓜,n,Bí đỏ hầm
+dưa leo,小黃瓜,n,Dưa leo mát
+đậu hũ,豆腐,n,Đậu hũ non
+đậu,豆子,n,
+ngô/bắp,玉米,n,Ngô nướng
+nấm,香菇/蘑菇,n,Nấm xào
+rau,蔬菜,n,Ăn nhiều rau vào
+chó,狗,n,Chó sủa to
+mèo,貓,n,Mèo lười lắm
+gà,雞,n,Gà trống gáy
+vịt,鴨子,n,Vịt bơi dưới ao
+lợn/heo,豬,n,Lợn kêu to
+bò,牛,n,Bò ăn cỏ
+trâu,水牛,n,Trâu cày ruộng
+ngựa,馬,n,Ngựa chạy nhanh
+cá,魚,n,Cá bơi nhanh
+chim,鳥,n,Chim hót hay
+rắn,蛇,n,Rắn độc nguy hiểm
+ếch,青蛙,n,Ếch kêu to
+muỗi,蚊子,n,Muỗi đốt đau
+kiến,螞蟻,n,Kiến chăm chỉ
+gián,蟑螂,n,
+chuột,老鼠,n,Chuột chạy nhanh
+voi,大象,n,Voi to lắm
+hổ,老虎,n,Hổ hung dữ
+sư tử,獅子,n,
+khỉ,猴子,n,Khỉ leo cây giỏi
+gấu,熊,n,Gấu ngủ đông
+áo,上衣/衣服,n,Áo mới đẹp
+quần,褲子,n,Quần jeans
+váy,裙子,n,Váy dài đẹp
+áo sơ mi,襯衫,n,Áo sơ mi trắng
+áo khoác,外套,n,Áo khoác dày
+áo phao,羽絨衣,n,
+quần short,短褲,n,
+tất,襪子,n,Tất cotton
+giày,鞋子,n,Giày da đen
+dép,拖鞋/涼鞋,n,Dép thoải mái
+mũ,帽子,n,Mũ bảo hiểm
+kính,眼鏡,n,Đeo kính
+đồng hồ,手錶/時鐘,n,Đồng hồ đẹp
+thắt lưng,皮帶,n,Thắt lưng da
+túi xách,手提包,n,Túi xách mới
+nhà,房子/家,n,Nhà tôi ở đây
+phòng,房間,n,Phòng ngủ
+phòng ngủ,臥室,n,Phòng ngủ sạch
+phòng khách,客廳,n,Phòng khách rộng
+phòng bếp,廚房,n,Phòng bếp nhỏ
+phòng tắm,浴室,n,Phòng tắm sạch
+nhà vệ sinh,廁所,n,Nhà vệ sinh ở đâu
+cửa,門,n,Cửa đóng lại
+cửa sổ,窗戶,n,Cửa sổ mở ra
+sàn,地板,n,Sàn gỗ
+trần nhà,天花板,n,
+tường,牆壁,n,Tường trắng
+giường,床,n,Giường êm
+gối,枕頭,n,Gối mềm
+chăn,被子/毯子,n,Chăn ấm
+bàn,桌子,n,Bàn làm việc
+ghế,椅子,n,Ghế gỗ
+tủ,衣櫃,n,Tủ quần áo
+kệ,架子,n,Kệ sách
+đèn,燈,n,Bật đèn lên
+quạt,風扇,n,Quạt mát
+điều hòa,冷氣/空調,n,Bật điều hòa
+tivi,電視,n,Xem tivi
+tủ lạnh,冰箱,n,Tủ lạnh lạnh
+máy giặt,洗衣機,n,Máy giặt hỏng
+lò vi sóng,微波爐,n,
+bếp,爐子,n,Bếp ga
+nồi,鍋子,n,Nồi cơm điện
+chảo,平底鍋,n,Chảo không dính
+bát/chén,碗,n,Bát cơm
+đĩa,盤子,n,Đĩa sứ
+đũa,筷子,n,Dùng đũa ăn
+thìa/muỗng,湯匙,n,Thìa canh
+dĩa,叉子,n,
+ly/cốc,杯子,n,Ly nước
+chai,瓶子,n,Chai nước
+xe máy,摩托車,n,Đi xe máy
+xe đạp,腳踏車,n,Đạp xe đi học
+ô tô/xe hơi,汽車,n,Đi ô tô
+xe buýt,公車,n,Đi xe buýt
+xe tải,卡車,n,Xe tải chở hàng
+tàu hỏa,火車,n,Đi tàu hỏa
+máy bay,飛機,n,Bay máy bay
+tàu thuyền,船,n,Đi tàu thuyền
+taxi,計程車,n,Gọi taxi
+đường,道路,n,Đường rộng
+ngã tư,十字路口,n,Dừng ở ngã tư
+cầu,橋,n,Qua cầu
+bến xe,車站/公車站,n,Đến bến xe
+sân bay,機場,n,Ra sân bay
+bệnh viện,醫院,n,Đến bệnh viện
+trường học,學校,n,Đi học trường
+siêu thị,超市,n,Đi siêu thị
+chợ,市場,n,Ra chợ mua đồ
+nhà hàng,餐廳,n,Đến nhà hàng
+quán cà phê,咖啡廳,n,
+ngân hàng,銀行,n,Đến ngân hàng
+bưu điện,郵局,n,Đến bưu điện
+khách sạn,飯店,n,Ở khách sạn
+công viên,公園,n,Dạo công viên
+thành phố,城市,n,Thành phố lớn
+tỉnh,省,n,Tỉnh nào
+quận,區,n,Quận mấy
+phường,里/坊,n,
+làng,村莊,n,Làng quê
+nhà máy,工廠,n,Làm việc ở nhà máy
+xưởng,車間/工坊,n,Xưởng sản xuất
+dây chuyền,生產線,n,Dây chuyền sản xuất
+máy,機器,n,Máy bị hỏng
+thiết bị,設備,n,Thiết bị mới
+dụng cụ,工具,n,Dụng cụ cầm tay
+nguyên liệu,原料,n,Nguyên liệu nhập về
+hàng hóa,貨物,n,Hàng hóa xuất khẩu
+sản phẩm,產品,n,Sản phẩm chất lượng cao
+chất lượng,品質,n,Chất lượng tốt
+lỗi,錯誤/瑕疵,n,Hàng có lỗi
+phế phẩm,廢品,n,Loại bỏ phế phẩm
+tiêu chuẩn,標準,n,Đạt tiêu chuẩn
+kiểm tra,檢查,v,Kiểm tra chất lượng
+bảo dưỡng,保養/維護,v,Bảo dưỡng máy định kỳ
+sửa chữa,修理,v,Sửa chữa máy hỏng
+lắp ráp,組裝,v,Lắp ráp linh kiện
+tháo,拆卸,v,Tháo máy ra
+vận hành,運作,v,Máy vận hành tốt
+tắt máy,關機,v,Tắt máy trước khi về
+bật máy,開機,v,Bật máy lên
+dừng máy,停機,v,Dừng máy khẩn cấp
+ca làm việc,班次,n,Ca sáng mấy giờ
+ca sáng,早班,n,Tôi làm ca sáng
+ca chiều,下午班,n,
+ca tối,晚班,n,Ca tối mệt lắm
+tăng ca,加班,v,Hôm nay tăng ca
+nghỉ phép,請假,v,Xin nghỉ phép một ngày
+công nhân,工人,n,Công nhân chăm chỉ
+kỹ thuật viên,技術員,n,
+kỹ sư,工程師,n,Kỹ sư giỏi
+quản lý,管理人員,n,Quản lý tốt
+giám sát,監督,v,Giám sát dây chuyền
+báo cáo,報告,v,Báo cáo cho sếp
+an toàn lao động,勞動安全,n,Tuân thủ an toàn lao động
+bảo hộ,防護/保護,n,Đeo bảo hộ lao động
+găng tay,手套,n,Đeo găng tay bảo hộ
+mũ bảo hiểm,安全帽,n,Đội mũ bảo hiểm
+khẩu trang,口罩,n,Đeo khẩu trang
+kho hàng,倉庫,n,Nhập hàng vào kho
+xuất kho,出庫,v,Xuất kho bao nhiêu
+nhập kho,入庫,v,Nhập kho hàng mới
+đơn hàng,訂單,n,Đơn hàng mới về
+giao hàng,交貨/送貨,v,Giao hàng đúng hạn
+nắng,晴天/陽光,n,Trời nắng to
+mưa,雨,n,Trời mưa to
+gió,風,n,Gió mạnh lắm
+mây,雲,n,Nhiều mây
+bão,暴風雨/颱風,n,Bão lớn đến
+lũ lụt,洪水,n,Lũ lụt nguy hiểm
+nóng,熱,adj,Trời nóng quá
+lạnh,冷,adj,Trời lạnh lắm
+ấm,溫暖,adj,Thời tiết ấm áp
+mát,涼爽,adj,Trời mát mẻ
+khô,乾燥,adj,Thời tiết khô
+ẩm,潮濕,adj,Thời tiết ẩm ướt
+mùa hè,夏天,n,Mùa hè nóng
+mùa đông,冬天,n,Mùa đông lạnh
+mùa xuân,春天,n,Mùa xuân đẹp
+mùa thu,秋天,n,Mùa thu mát
+núi,山,n,Núi cao
+biển,海/海灘,n,Đi tắm biển
+sông,河流,n,Sông rộng
+hồ,湖泊,n,Hồ Gươm đẹp
+rừng,森林,n,Rừng nhiệt đới
+đất,土地/地面,n,Đất màu mỡ
+đá,石頭,n,Đá cứng
+cát,沙子,n,Cát trắng mịn
+cây,樹/植物,n,Cây xanh
+hoa,花,n,Hoa đẹp
+lá,葉子,n,Lá xanh
+cỏ,草,n,Cỏ xanh mượt
+bóng đá,足球,n,Xem bóng đá
+bóng rổ,籃球,n,Chơi bóng rổ
+bóng chuyền,排球,n,
+bơi lội,游泳,n,Đi bơi lội
+chạy bộ,跑步,n,Đi chạy bộ
+tập thể dục,健身/運動,v,Tập thể dục mỗi ngày
+yoga,瑜珈,n,
+cờ vua,象棋/西洋棋,n,
+âm nhạc,音樂,n,Nghe âm nhạc
+phim,電影,n,Xem phim
+sách,書,n,Đọc sách
+đọc,閱讀,v,Đọc sách mỗi ngày
+ca hát,唱歌,v,Ca hát vui lắm
+nhảy,跳舞,v,Nhảy điệu này đẹp
+nấu ăn,烹飪,v,Thích nấu ăn
+du lịch,旅遊,n,Đi du lịch
+trường,學校,n,Đi học trường
+lớp học,教室,n,Lớp học rộng
+học sinh,學生,n,Học sinh chăm chỉ
+sinh viên,大學生,n,Sinh viên đại học
+giáo viên,老師,n,Giáo viên tốt bụng
+thầy,老師（男）,n,Thầy giáo dạy giỏi
+cô,老師（女）/姑姑,n,Cô giáo hiền lắm
+hiệu trưởng,校長,n,
+bài học,課程/作業,n,Làm bài học xong chưa
+bài tập,作業/練習,n,Làm bài tập về nhà
+thi,考試,v,Ngày mai thi rồi
+kiểm tra,小考,n,Kiểm tra 15 phút
+điểm,分數,n,Điểm cao lắm
+đại học,大學,n,Học đại học
+tiếng Việt,越南語,n,Học tiếng Việt
+tiếng Anh,英語,n,Học tiếng Anh
+tiếng Trung,中文,n,Học tiếng Trung
+toán,數學,n,Học toán giỏi
+khoa học,科學,n,
+lịch sử,歷史,n,
+địa lý,地理,n,
+bác sĩ,醫生,n,Gặp bác sĩ
+y tá,護士,n,Y tá chăm sóc
+thuốc,藥物,n,Uống thuốc đúng giờ
+đau,痛,adj,Đau lắm
+sốt,發燒,v,Bị sốt cao
+ho,咳嗽,v,Ho nhiều ngày
+cảm,感冒,n,Bị cảm rồi
+đau đầu,頭痛,n,Đau đầu dữ lắm
+đau bụng,肚子痛,n,Đau bụng quá
+buồn nôn,噁心/想吐,v,Thấy buồn nôn
+chóng mặt,頭暈,v,Chóng mặt quá
+dị ứng,過敏,n,Bị dị ứng
+thương,受傷,v,Bị thương rồi
+chảy máu,流血,v,Chảy máu tay
+gãy,骨折/斷,v,Gãy tay rồi
+phẫu thuật,手術,n,Phải phẫu thuật
+tiêm,打針,v,Tiêm vaccine
+xét nghiệm,化驗/檢查,n,Xét nghiệm máu
+đơn thuốc,處方,n,Có đơn thuốc không
+nhà thuốc,藥局,n,Mua ở nhà thuốc
+cấp cứu,急救,n,Gọi cấp cứu ngay
+khỏe,健康/好了,adj,Bây giờ khỏe rồi
+bệnh,生病,adj,Đang bị bệnh
+mua,買,v,Mua hàng
+bán,賣,v,Bán rẻ không
+giá,價格,n,Giá bao nhiêu
+đắt,貴,adj,Đắt quá rồi
+rẻ,便宜,adj,Rẻ thế này à
+tiền,錢,n,Có tiền không
+trả tiền,付錢,v,Trả tiền bằng gì
+tiền mặt,現金,n,Trả tiền mặt
+thẻ,信用卡/卡片,n,Trả bằng thẻ
+hóa đơn,收據/發票,n,Cho tôi hóa đơn
+khuyến mãi,優惠/打折,n,Có khuyến mãi không
+giảm giá,降價/打折,v,Giảm giá cho tôi
+kích thước,尺寸,n,Kích thước bao nhiêu
+màu sắc,顏色,n,Màu sắc đẹp
+điện thoại,手機/電話,n,Gọi điện thoại
+máy tính,電腦,n,Dùng máy tính
+internet,網路,n,Kết nối internet
+wifi,無線網路,n,Mật khẩu wifi là gì
+pin,電池,n,Pin hết rồi
+sạc,充電,v,Sạc điện thoại
+màn hình,螢幕,n,Màn hình lớn
+bàn phím,鍵盤,n,
+chuột,滑鼠,n,Chuột máy tính
+máy in,印表機,n,Máy in bị kẹt giấy
+email,電子郵件,n,Gửi email
+ứng dụng,應用程式/APP,n,Tải ứng dụng về
+mạng xã hội,社群媒體,n,
+ăn,吃,v,Ăn cơm chưa
+uống,喝,v,Uống nước đi
+làm,做/工作,v,Làm việc chăm chỉ
+đi,去,v,Đi đâu vậy
+đến,到/來,v,Đến rồi
+về,回/回去,v,Về nhà thôi
+ngủ,睡覺,v,Ngủ ngon không
+thức dậy,起床,v,Thức dậy sớm
+tắm,洗澡,v,Đi tắm đi
+rửa,洗,v,Rửa tay sạch
+mặc,穿（衣服）,v,Mặc áo vào
+cởi,脫（衣服）,v,Cởi áo ra
+đi bộ,走路,v,Đi bộ thể dục
+chạy,跑,v,Chạy nhanh lên
+ngồi,坐,v,Ngồi xuống đây
+đứng,站立,v,Đứng lên nào
+nằm,躺,v,Nằm nghỉ đi
+nhìn,看/注視,v,Nhìn vào đây
+xem,看（電視/電影）,v,Xem phim gì
+nghe,聽,v,Nghe rõ không
+nói,說,v,Nói to lên
+hỏi,問,v,Hỏi thăm
+trả lời,回答,v,Trả lời câu hỏi
+đọc,讀,v,Đọc sách mỗi tối
+viết,寫,v,Viết tên vào đây
+học,學習,v,Học tiếng Việt
+dạy,教,v,Dạy tiếng Việt
+hiểu,理解/懂,v,Hiểu chưa
+biết,知道,v,Tôi không biết
+nhớ,記得/想念,v,Nhớ nhà lắm
+quên,忘記,v,Quên mất rồi
+nghĩ,思考/認為,v,Tôi nghĩ vậy
+cảm thấy,感覺,v,Cảm thấy mệt
+thích,喜歡,v,Tôi thích ăn phở
+yêu,愛,v,Tôi yêu bạn
+ghét,討厭/恨,v,Ghét cái này lắm
+sợ,害怕,v,Sợ lắm
+vui,開心,adj,Vui quá đi
+buồn,傷心/悲傷,adj,Buồn lắm
+tức,生氣,adj,Tức giận rồi
+mừng,高興,adj,Mừng lắm
+lo,擔心,v,Lo lắng quá
+mở,打開,v,Mở cửa ra
+đóng,關閉,v,Đóng cửa lại
+bật,開/打開（電器）,v,Bật đèn lên
+tắt,關閉（電器）,v,Tắt đèn đi
+cầm,拿/握,v,Cầm cái này
+đặt,放置,v,Đặt xuống đây
+lấy,拿取,v,Lấy cái kia cho tôi
+đưa,給/遞,v,Đưa tôi cái này
+nhận,收/接受,v,Nhận hàng rồi
+trả,還/付,v,Trả lại tôi
+gửi,寄/傳送,v,Gửi email này
+nhận được,收到,v,Nhận được chưa
+mang,攜帶/帶,v,Mang theo không
+để,放/留,v,Để đây được không
+tìm,找,v,Tìm chìa khóa đâu
+thấy,看到/找到,v,Thấy rồi
+mất,遺失,v,Mất điện thoại rồi
+có,有,v,Có máy tính không
+không có,沒有,v,Không có thời gian
+cần,需要,v,Cần giúp đỡ gì không
+muốn,想要,v,Muốn ăn gì
+phải,必須,v,Phải làm ngay
+nên,應該,v,Nên đi khám bác sĩ
+có thể,可以/能夠,v,Có thể giúp tôi không
+không thể,不能/不可以,v,Không thể làm được
+được,可以（回應）,v,Được rồi
+gặp,遇見/見面,v,Gặp bạn ở đây
+chờ,等待,v,Chờ tôi một chút
+bắt đầu,開始,v,Bắt đầu làm việc
+kết thúc,結束,v,Kết thúc chưa
+tiếp tục,繼續,v,Tiếp tục làm đi
+dừng lại,停下來,v,Dừng lại ngay
+thay,換/替換,v,Thay linh kiện mới
+lau,擦/清潔,v,Lau máy sạch
+quét,掃/清掃,v,Quét dọn nhà xưởng
+đổ,倒/傾倒,v,Đổ dầu vào máy
+bơm,抽/泵,v,Bơm xăng
+cắt,切/剪,v,Cắt vải
+hàn,焊接,v,Hàn kim loại
+ép,壓/擠壓,v,Ép nhựa
+đóng gói,包裝,v,Đóng gói hàng hóa
+dán nhãn,貼標籤,v,Dán nhãn sản phẩm
+xếp,整理/疊放,v,Xếp hàng lên kệ
+tốt,好,adj,Tốt lắm
+xấu,不好/壞,adj,Hàng xấu
+mới,新,adj,Máy mới
+cũ,舊,adj,Máy cũ hỏng
+lớn,大,adj,Máy lớn
+nhỏ,小,adj,Phòng nhỏ
+cao,高,adj,Tòa nhà cao
+thấp,矮/低,adj,
+dài,長,adj,Dây chuyền dài
+ngắn,短,adj,
+rộng,寬/寬敞,adj,Phòng rộng
+hẹp,窄,adj,Đường hẹp
+nặng,重,adj,Hàng nặng lắm
+nhẹ,輕,adj,Nhẹ thôi
+dày,厚,adj,Vải dày
+mỏng,薄,adj,Giấy mỏng
+cứng,硬,adj,Kim loại cứng
+mềm,軟,adj,Đệm mềm
+sắc,鋒利,adj,Dao sắc bén
+tù,鈍,adj,Dao tù rồi
+sạch,乾淨,adj,Sạch sẽ rồi
+bẩn,髒,adj,Bẩn quá rồi
+khô,乾,adj,Vải khô rồi
+ướt,濕,adj,Vải còn ướt
+đầy,滿/充足,adj,Thùng đầy rồi
+vơi/trống,空/不足,adj,Thùng trống rồi
+nhiều,多,adj,Có nhiều hàng
+ít,少,adj,Ít người quá
+đủ,足夠,adj,Đủ rồi không cần thêm
+thiếu,不足/缺少,adj,Thiếu nguyên liệu rồi
+thừa,多餘/剩餘,adj,Thừa hàng rồi
+nhanh,快,adj,Làm nhanh lên
+chậm,慢,adj,Đi chậm thôi
+mạnh,強/用力,adj,Mạnh lắm
+yếu,弱,adj,Yếu quá
+đúng,正確,adj,Đúng rồi
+sai,錯誤,adj,Sai rồi làm lại
+thật,真的,adj,Thật sự không
+giả,假的,adj,Hàng giả
+an toàn,安全,adj,Phải đảm bảo an toàn
+nguy hiểm,危險,adj,Nguy hiểm lắm
+cẩn thận,小心,adj,Cẩn thận kẻo ngã
+cấp bách,緊急,adj,Việc cấp bách
+bình thường,正常/普通,adj,Bình thường thôi
+đặc biệt,特別,adj,Đặc biệt lắm
+quan trọng,重要,adj,Việc quan trọng
+cần thiết,必要,adj,Cần thiết phải làm
+bắt buộc,強制/必須,adj,Bắt buộc phải làm
+tự nguyện,自願,adj,Tự nguyện làm
+miễn phí,免費,adj,Miễn phí không
+tốn tiền,花錢,adj,Tốn tiền lắm
+khó,難,adj,Khó quá
+dễ,容易,adj,Dễ lắm
+phức tạp,複雜,adj,Phức tạp quá
+đơn giản,簡單,adj,Đơn giản thôi
+rất,非常,adv,Rất tốt
+quá,太/非常,adv,Nóng quá
+cũng,也,adv,Tôi cũng vậy
+chỉ,只/僅,adv,Chỉ một người thôi
+đã,已經,adv,Đã xong rồi
+đang,正在,adv,Đang làm việc
+sẽ,將要,adv,Sẽ đến ngay
+chưa,還沒,adv,Chưa xong
+vẫn,仍然,adv,Vẫn chưa xong
+lại,又/再,adv,Làm lại đi
+nữa,再/又,adv,Làm nữa đi
+thôi,算了/就這樣,adv,Thôi được rồi
+ngay,立刻/就,adv,Làm ngay đi
+luôn,總是/立刻,adv,Luôn đúng giờ
+thường,經常,adv,Thường làm vậy
+đôi khi,有時候,adv,Đôi khi quên
+hiếm khi,很少,adv,Hiếm khi sai
+không bao giờ,從不,adv,Không bao giờ làm vậy
+và,和/而且,conj,Tôi và bạn
+hoặc,或者,conj,Hoặc cái này hoặc cái kia
+nhưng,但是,conj,Muốn nhưng không được
+vì,因為,conj,Vì trời mưa
+nên,所以,conj,Nên nghỉ ở nhà
+nếu,如果,conj,Nếu trời mưa thì nghỉ
+thì,那麼/就,conj,Làm xong thì về
+khi,當/當時,conj,Khi đến nơi gọi tôi
+sau khi,之後,conj,Sau khi ăn xong
+trước khi,之前,conj,Trước khi đi
+vui vẻ,快樂/開心,adj,Luôn vui vẻ
+hạnh phúc,幸福,adj,Sống hạnh phúc
+bình yên,平靜,adj,Cuộc sống bình yên
+stress,壓力,n,Bị stress nhiều
+mệt mỏi,疲勞,adj,Mệt mỏi lắm
+khỏe mạnh,健康,adj,Sống khỏe mạnh
+tin tưởng,信任,v,Tin tưởng nhau
+tôn trọng,尊重,v,Tôn trọng lẫn nhau
+hợp tác,合作,v,Hợp tác tốt
+giúp đỡ,幫助,v,Giúp đỡ nhau
+chia sẻ,分享,v,Chia sẻ kinh nghiệm
+lương,薪水,n,Lương tháng bao nhiêu
+thưởng,獎金,n,Có thưởng không
+thuế,稅,n,Khấu trừ thuế
+bảo hiểm,保險,n,Có bảo hiểm không
+hợp đồng,合約,n,Ký hợp đồng
+quy định,規定,n,Theo quy định
+nội quy,內部規定,n,Tuân thủ nội quy
+vi phạm,違規,v,Vi phạm quy định
+phạt,處罰,v,Bị phạt rồi
+khen,表揚,v,Được khen
+thăng chức,升職,v,Được thăng chức
+nghỉ việc,辭職,v,Muốn nghỉ việc
+tuyển dụng,招募,v,Tuyển dụng công nhân
+đào tạo,培訓,v,Đào tạo nhân viên mới
+kinh nghiệm,經驗,n,Có kinh nghiệm không
+kỹ năng,技能,n,Kỹ năng tốt
+chứng chỉ,證書,n,Có chứng chỉ không
