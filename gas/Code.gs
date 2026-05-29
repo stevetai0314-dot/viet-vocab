@@ -67,6 +67,14 @@ function initVocab(csvText) {
   return { imported: vocabRows.length };
 }
 
+function importFromGitHub() {
+  const url = 'https://raw.githubusercontent.com/stevetai0314-dot/viet-vocab/master/vocab-2000.csv';
+  const response = UrlFetchApp.fetch(url);
+  const csv = response.getContentText('UTF-8');
+  const result = initVocab(csv);
+  Logger.log('匯入筆數: %s', result.imported);
+}
+
 function testInitVocab() {
   const csv = `vietnamese,chinese,word_type,example
 táo,蘋果,n,Tôi ăn táo
