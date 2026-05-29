@@ -122,7 +122,7 @@ cảm ơn,謝謝,phrase,Cảm ơn bạn rất nhiều
       const res = await fetch(GAS_URL, {
         method: 'POST',
         redirect: 'follow',
-        headers: { 'Content-Type': 'text/plain' },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
       return res.json();
