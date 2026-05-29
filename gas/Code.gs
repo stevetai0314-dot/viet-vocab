@@ -94,11 +94,15 @@ function getTodayCards() {
   const vocabMap = {};
   vocabRows.forEach(r => { vocabMap[r[0]] = { vietnamese: r[1], chinese: r[2], word_type: r[3], example: r[4] }; });
 
+  function toDateStr(val) {
+    return val instanceof Date ? Utilities.formatDate(val, TZ, 'yyyy-MM-dd') : String(val);
+  }
+
   const cards = progressRows
-    .filter(r => r[1] <= todayStr)
+    .filter(r => toDateStr(r[1]) <= todayStr)
     .map(r => ({
       word_id: r[0],
-      next_review: r[1],
+      next_review: toDateStr(r[1]),
       ease_factor: r[2],
       interval: r[3],
       repetitions: r[4],
