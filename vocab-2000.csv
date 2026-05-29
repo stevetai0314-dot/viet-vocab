@@ -665,3 +665,931 @@ tuyển dụng,招募,v,Tuyển dụng công nhân
 kinh nghiệm,經驗,n,Có kinh nghiệm không
 kỹ năng,技能,n,Kỹ năng tốt
 chứng chỉ,證書,n,Có chứng chỉ không
+tạm biệt,再見,phrase,Tạm biệt hẹn gặp lại
+hẹn gặp lại,待會見/下次見,phrase,Hẹn gặp lại nhé
+chúc ngủ ngon,晚安,phrase,Chúc ngủ ngon
+chúc mừng,恭喜,phrase,Chúc mừng sinh nhật
+chúc sức khỏe,祝健康,phrase,Chúc sức khỏe
+chúc may mắn,祝好運,phrase,Chúc bạn may mắn
+chúc thành công,祝成功,phrase,Chúc thành công nhé
+xin chào buổi sáng,早安,phrase,Xin chào buổi sáng
+chào buổi chiều,午安,phrase,Chào buổi chiều
+không sao,沒關係/沒事,phrase,Không sao đâu
+thật sự,真的,phrase,Thật sự không biết
+nói thật,說真的,phrase,Nói thật nhé
+nói chung,總的來說,phrase,Nói chung là tốt
+theo tôi,我認為,phrase,Theo tôi thì đúng
+thực ra,其實,phrase,Thực ra tôi không biết
+ví dụ,例如,phrase,Ví dụ như thế này
+đồng ý,同意,phrase,Tôi đồng ý
+không đồng ý,不同意,phrase,Tôi không đồng ý
+dĩ nhiên,當然,phrase,Dĩ nhiên rồi
+chắc chắn,確定,phrase,Chắc chắn rồi
+có lẽ,也許,phrase,Có lẽ đúng
+hình như,好像,phrase,Hình như sai
+được rồi,好了/可以,phrase,Được rồi không cần nữa
+thôi được,算了/好吧,phrase,Thôi được vậy đi
+xin phép,請允許,phrase,Cho tôi xin phép
+mời,請/邀請,phrase,Mời vào
+nhờ,拜託/麻煩,phrase,Nhờ bạn giúp tôi
+xin lỗi một chút,打擾一下,phrase,Xin lỗi một chút
+bạn có khỏe không,你好嗎,phrase,Bạn có khỏe không
+khỏe cảm ơn,很好謝謝,phrase,Khỏe cảm ơn bạn
+cô,姑姑/阿姨（父系）,n,Cô tôi ở Hà Nội
+dì,阿姨（母系）,n,Dì tôi dễ thương lắm
+chú,叔叔（父系）,n,Chú tôi làm kỹ sư
+cậu,舅舅（母系）,n,Cậu tôi ở Sài Gòn
+bác,伯父/伯母,n,Bác ơi giúp con với
+cháu,姪子/外甥/孫子,n,Cháu mấy tuổi rồi
+anh họ,堂哥/表哥,n,Anh họ tôi cao lắm
+chị họ,堂姐/表姐,n,Chị họ tôi đẹp
+em họ,堂弟妹/表弟妹,n,Em họ tôi còn nhỏ
+bạn trai,男朋友,n,Bạn trai tôi tên Minh
+bạn gái,女朋友,n,Bạn gái tôi rất đẹp
+vợ chồng,夫妻,n,Vợ chồng hạnh phúc
+họ hàng,親戚,n,Họ hàng gặp nhau ngày Tết
+người thân,親人,n,Người thân ở xa
+hàng xóm láng giềng,左鄰右舍,n,Hàng xóm thân thiện
+hình tròn,圓形,n,Hình tròn đều
+hình vuông,正方形,n,Hình vuông bốn cạnh
+hình chữ nhật,長方形,n,Hình chữ nhật dài
+hình tam giác,三角形,n,Hình tam giác ba góc
+đường thẳng,直線,n,Kẻ đường thẳng
+đường cong,曲線,n,Đường cong mềm mại
+góc,角/角落,n,Góc vuông 90 độ
+cạnh,邊/邊緣,n,Cạnh sắc bén
+chiều dài,長度,n,Chiều dài bao nhiêu
+chiều rộng,寬度,n,Chiều rộng không đủ
+chiều cao,高度,n,Chiều cao tòa nhà
+diện tích,面積,n,Diện tích mấy mét vuông
+thể tích,體積,n,Thể tích bình chứa
+trái,左,adv,Quẹo trái
+phải,右,adv,Rẽ phải
+trên,上面,adv,Để lên trên
+dưới,下面,adv,Đặt xuống dưới
+trong,裡面,adv,Để trong hộp
+ngoài,外面,adv,Ra ngoài đi
+giữa,中間,adv,Đứng ở giữa
+bên cạnh,旁邊,adv,Để bên cạnh
+phía trước,前方,adv,Đi phía trước
+phía sau,後方,adv,Đứng phía sau
+xung quanh,周圍,adv,Xung quanh nhà máy
+đối diện,對面,adv,Đối diện tòa nhà
+gần,近,adj,Nhà gần đây thôi
+xa,遠,adj,Nhà xa lắm
+thẳng,直走/直,adv,Đi thẳng
+rẽ,轉彎,v,Rẽ phải ở ngã tư
+sắt,鐵,n,Sắt cứng
+thép,鋼鐵,n,Thép không gỉ
+nhôm,鋁,n,Nhôm nhẹ hơn sắt
+đồng,銅/黃銅,n,Dây đồng
+nhựa,塑膠,n,Hộp nhựa
+cao su,橡膠,n,Găng tay cao su
+gỗ,木頭,n,Bàn gỗ
+giấy,紙,n,Giấy trắng
+vải,布料,n,Vải cotton
+da,皮革/皮膚,n,Túi da thật
+thủy tinh,玻璃,n,Cốc thủy tinh
+gốm,陶瓷,n,Bát gốm
+xi măng,水泥,n,Trộn xi măng
+bê tông,混凝土,n,Sàn bê tông
+sơn,油漆,n,Sơn tường trắng
+keo,膠水/膠,n,Dán bằng keo
+dây,繩子/電線,n,Dây buộc hàng
+ốc vít,螺絲,n,Siết ốc vít
+đinh,釘子,n,Đóng đinh vào tường
+bu lông,螺栓,n,Xiết bu lông chặt
+mét,公尺,n,Dài năm mét
+centimet,公分,n,Rộng hai mươi centimet
+kilômét,公里,n,Cách hai kilômét
+kilôgam,公斤,n,Nặng mười kilôgam
+gam,克,n,Hai trăm gam
+lít,公升,n,Bình năm lít
+tấn,公噸,n,Xe ba tấn
+cái,個（量詞）,n,Một cái máy
+chiếc,隻/個（量詞）,n,Hai chiếc xe
+bộ,套（量詞）,n,Một bộ dụng cụ
+đôi,雙（量詞）,n,Một đôi găng tay
+hộp,盒子,n,Hộp đựng linh kiện
+túi,袋子,n,Túi đựng hàng
+thùng,桶/箱,n,Thùng hàng lớn
+gói,包（量詞）,n,Một gói hàng
+cuộn,捲（量詞）,n,Cuộn dây điện
+tờ,張（量詞）,n,Một tờ giấy
+quyển,本（量詞）,n,Quyển sách dày
+kéo,拉/剪刀,v,Kéo dây ra
+đẩy,推,v,Đẩy xe đi
+nâng,舉起/提起,v,Nâng hàng lên
+hạ,放下/降低,v,Hạ hàng xuống
+xoay,旋轉,v,Xoay vít
+vặn,擰/轉,v,Vặn chặt ốc
+nhấn,按壓,v,Nhấn nút dừng
+bấm,按（按鈕）,v,Bấm điện thoại
+đánh,打/敲,v,Đánh búa vào
+đập,敲打,v,Đập vỡ ra
+ném,丟/扔,v,Ném đi
+bắt,抓/接,v,Bắt lấy
+đá,踢,v,Đá ra ngoài
+leo,爬,v,Leo lên giàn giáo
+lái,駕駛,v,Lái xe máy
+điều khiển,操控,v,Điều khiển máy
+quan sát,觀察,v,Quan sát dây chuyền
+theo dõi,追蹤/監視,v,Theo dõi tiến độ
+ghi chép,記錄/抄寫,v,Ghi chép số liệu
+đo,測量,v,Đo kích thước
+cân,稱重,v,Cân hàng hóa
+đếm,數數,v,Đếm số lượng
+tính,計算,v,Tính tiền
+chia,除/分,v,Chia đều ra
+cộng,加,v,Cộng lại bao nhiêu
+trừ,減,v,Trừ đi số lỗi
+nhân,乘,v,Nhân với hai
+so sánh,比較,v,So sánh chất lượng
+đánh giá,評估,v,Đánh giá hiệu suất
+quyết định,決定,v,Quyết định làm ngay
+thực hiện,執行,v,Thực hiện kế hoạch
+hoàn thành,完成,v,Hoàn thành đúng hạn
+kiểm soát,控制,v,Kiểm soát chất lượng
+điều chỉnh,調整,v,Điều chỉnh thông số
+chuẩn bị,準備,v,Chuẩn bị nguyên liệu
+lên kế hoạch,計劃/規劃,v,Lên kế hoạch tuần tới
+thông báo,通知,v,Thông báo cho nhân viên
+liên lạc,聯繫,v,Liên lạc với sếp
+xác nhận,確認,v,Xác nhận đơn hàng
+từ chối,拒絕,v,Từ chối yêu cầu này
+chấp nhận,接受,v,Chấp nhận điều kiện
+đề nghị,建議/提議,v,Đề nghị cách khác
+yêu cầu,要求,v,Yêu cầu chất lượng cao
+phàn nàn,抱怨,v,Phàn nàn về hàng lỗi
+cho phép,允許,v,Cho phép nghỉ sớm
+cấm,禁止,v,Cấm hút thuốc trong xưởng
+cảnh báo,警告,v,Cảnh báo nguy hiểm
+hướng dẫn,指導/說明,v,Hướng dẫn cách làm
+giải thích,解釋,v,Giải thích quy trình
+mô tả,描述,v,Mô tả sự cố
+phân tích,分析,v,Phân tích nguyên nhân
+tổng hợp,總結/整合,v,Tổng hợp báo cáo
+chọn,選擇,v,Chọn sản phẩm tốt
+ưu tiên,優先,v,Ưu tiên đơn gấp
+sắp xếp,整理/安排,v,Sắp xếp lại kho
+phân loại,分類,v,Phân loại hàng lỗi
+tách,分離/隔開,v,Tách hàng lỗi ra
+kết hợp,結合,v,Kết hợp hai bộ phận
+giặt,洗（衣服）,v,Giặt quần áo
+phơi,晾乾,v,Phơi đồ ngoài nắng
+ủi,熨燙,v,Ủi áo phẳng
+nấu,煮/烹飪,v,Nấu cơm
+chiên,油炸/煎,v,Chiên trứng
+xào,炒,v,Xào rau
+luộc,水煮,v,Luộc rau
+hấp,蒸,v,Hấp cá
+nướng,烤,v,Nướng thịt
+hầm,燉,v,Hầm xương
+pha,泡/調配,v,Pha cà phê
+trộn,混合/拌,v,Trộn salad
+khuấy,攪拌,v,Khuấy đều
+gọt,削,v,Gọt vỏ
+thái,切片,v,Thái thịt mỏng
+băm,剁碎,v,Băm tỏi
+xay,磨/打碎,v,Xay thịt
+rang,炒（乾炒）,v,Rang đậu phộng
+tưới,澆水,v,Tưới cây
+nhổ,拔除,v,Nhổ cỏ
+trồng,種植,v,Trồng rau
+chụp ảnh,拍照,v,Chụp ảnh kỷ niệm
+vẽ,畫,v,Vẽ sơ đồ
+in,印刷/列印,v,In tài liệu
+scan,掃描,v,Scan hồ sơ
+copy,複印/複製,v,Copy file này
+lưu,儲存,v,Lưu file lại
+xóa,刪除,v,Xóa file cũ
+mở file,開啟檔案,v,Mở file báo cáo
+đóng file,關閉檔案,v,Đóng file lại
+tải lên,上傳,v,Tải lên server
+tải xuống,下載,v,Tải xuống ứng dụng
+cài đặt,安裝,v,Cài đặt phần mềm
+cập nhật,更新,v,Cập nhật hệ thống
+khởi động lại,重新啟動,v,Khởi động lại máy
+tươi,新鮮,adj,Rau tươi
+héo,枯萎,adj,Rau bị héo
+chín,熟/成熟,adj,Trái cây chín rồi
+ngọt,甜,adj,Ngọt lắm
+chua,酸,adj,Chanh chua
+đắng,苦,adj,Thuốc đắng
+cay,辣,adj,Ớt cay lắm
+mặn,鹹,adj,Canh mặn quá
+nhạt,淡/無味,adj,Nhạt quá thêm muối vào
+béo,胖/肥,adj,Thịt béo
+gầy,瘦,adj,Người gầy quá
+già,老/舊,adj,Máy già cần thay
+trẻ,年輕/新,adj,Công nhân trẻ
+bóng,光滑/有光澤,adj,Bề mặt bóng
+nhám,粗糙,adj,Bề mặt nhám
+thẳng,直/筆直,adj,Đường thẳng
+cong,彎曲,adj,Thanh kim loại bị cong
+vuông,方形,adj,Hộp vuông
+tròn,圓形,adj,Vòng tròn
+phẳng,平坦,adj,Mặt phẳng
+gồ ghề,凹凸不平,adj,Đường gồ ghề
+đều,均勻,adj,Phân bổ đều
+khác nhau,不同,adj,Kích thước khác nhau
+giống nhau,相同,adj,Giống nhau hoàn toàn
+tự động,自動,adj,Máy tự động
+thủ công,手工,adj,Làm thủ công
+hiện đại,現代,adj,Thiết bị hiện đại
+truyền thống,傳統,adj,Phương pháp truyền thống
+sang trọng,豪華,adj,Khách sạn sang trọng
+bình dân,平民/普通,adj,Quán ăn bình dân
+chuyên nghiệp,專業,adj,Làm việc chuyên nghiệp
+chính xác,精確,adj,Số liệu chính xác
+đáng tin cậy,可靠,adj,Máy đáng tin cậy
+ổn định,穩定,adj,Hoạt động ổn định
+linh hoạt,靈活,adj,Thời gian linh hoạt
+sáng tạo,創意,adj,Giải pháp sáng tạo
+thông minh,聰明,adj,Thiết kế thông minh
+trung thực,誠實,adj,Người trung thực
+lịch sự,有禮貌,adj,Cư xử lịch sự
+thô lỗ,粗魯,adj,Thô lỗ quá
+tốt bụng,好心,adj,Người tốt bụng
+ích kỷ,自私,adj,Người ích kỷ
+hào phóng,慷慨,adj,Người hào phóng
+keo kiệt,吝嗇,adj,Người keo kiệt
+chăm chỉ,勤奮,adj,Công nhân chăm chỉ
+lười biếng,懶惰,adj,Đừng lười biếng
+cần cù,勤勞,adj,Làm việc cần cù
+ngăn nắp,整齊,adj,Nơi làm việc ngăn nắp
+bừa bãi,雜亂,adj,Để bừa bãi không được
+hiệu quả,有效率,adj,Làm việc hiệu quả
+lãng phí,浪費,adj,Lãng phí nguyên liệu
+tiết kiệm,節省,adj,Tiết kiệm điện nước
+bền,耐用,adj,Vật liệu bền
+chắc chắn,結實/確定,adj,Kết cấu chắc chắn
+mịn,細滑,adj,Bề mặt mịn
+thô,粗糙/粗,adj,Vải thô
+sáng,亮,adj,Đèn sáng
+tối,暗,adj,Phòng tối quá
+rõ ràng,清楚,adj,Hướng dẫn rõ ràng
+mờ,模糊,adj,Hình ảnh mờ
+đầy đủ,完整/齊全,adj,Tài liệu đầy đủ
+thiếu,缺少,adj,Thiếu linh kiện
+thừa,多餘,adj,Hàng thừa trong kho
+tốn,花費,adj,Tốn nhiều điện
+tiết kiệm được,省下來,adj,Tiết kiệm được nhiều
+cấp bách,緊急,adj,Việc cấp bách phải làm ngay
+khẩn cấp,緊急,adj,Trường hợp khẩn cấp
+văn phòng,辦公室,n,Làm việc ở văn phòng
+bàn làm việc,辦公桌,n,Ngồi bàn làm việc
+tài liệu,文件,n,Tài liệu quan trọng
+hồ sơ,檔案/資料,n,Hồ sơ nhân viên
+báo cáo,報告,n,Nộp báo cáo tuần
+kế hoạch,計劃,n,Kế hoạch sản xuất
+ngân sách,預算,n,Ngân sách tháng này
+chi phí,費用,n,Chi phí sản xuất
+doanh thu,營業額,n,Doanh thu tháng tăng
+lợi nhuận,利潤,n,Lợi nhuận cao
+hóa đơn,發票/收據,n,Xuất hóa đơn
+hợp đồng,合約,n,Ký hợp đồng lao động
+đơn hàng,訂單,n,Đơn hàng gấp
+khách hàng,客戶,n,Khách hàng hài lòng
+nhà cung cấp,供應商,n,Nhà cung cấp uy tín
+đối tác,合作夥伴,n,Đối tác lâu dài
+thị trường,市場,n,Thị trường mở rộng
+chính sách,政策,n,Chính sách công ty
+quy trình,流程,n,Quy trình sản xuất
+thủ tục,程序/手續,n,Thủ tục xin nghỉ phép
+họp,開會,v,Họp lúc mấy giờ
+cuộc họp,會議,n,Cuộc họp sáng mai
+hội nghị,大型會議,n,Hội nghị toàn công ty
+trình bày,報告/呈現,v,Trình bày kết quả
+deadline,截止日期,n,Deadline ngày mai
+tiến độ,進度,n,Tiến độ như thế nào
+công suất,產能,n,Công suất máy bao nhiêu
+năng suất,生產力,n,Năng suất tăng
+hiệu suất,效率,n,Hiệu suất làm việc
+tỷ lệ lỗi,不良率,n,Tỷ lệ lỗi giảm
+xuất xưởng,出廠,v,Hàng xuất xưởng rồi
+hàng tồn kho,庫存,n,Hàng tồn kho nhiều
+vật tư,物料,n,Vật tư đã nhập về
+linh kiện,零件,n,Linh kiện chính hãng
+bán thành phẩm,半成品,n,Bán thành phẩm chuyển sang
+thành phẩm,成品,n,Thành phẩm kiểm tra xong
+đóng hàng,打包裝箱,v,Đóng hàng xuất khẩu
+tem nhãn,標籤貼紙,n,Dán tem nhãn
+mã vạch,條形碼,n,Quét mã vạch
+số lô,批號,n,Ghi số lô vào
+ngày sản xuất,生產日期,n,Ghi ngày sản xuất
+hạn sử dụng,有效期限,n,Hạn sử dụng còn lâu
+xuất xứ,產地/來源,n,Xuất xứ Đài Loan
+chứng nhận,認證,n,Có chứng nhận ISO
+búa,鐵鎚,n,Đóng đinh bằng búa
+kìm,鉗子,n,Kìm cắt dây
+tua vít,螺絲起子,n,Dùng tua vít vặn ốc
+cờ lê,扳手,n,Cờ lê siết bu lông
+mỏ hàn,電焊槍,n,Hàn bằng mỏ hàn
+máy khoan,鑽孔機,n,Khoan lỗ bằng máy khoan
+máy mài,磨砂機,n,Mài bavia bằng máy mài
+thước,尺/刻度尺,n,Đo bằng thước
+thước dây,捲尺,n,Thước dây năm mét
+thước vuông,直角尺,n,Kiểm tra góc vuông
+máy cắt,切割機,n,Dùng máy cắt
+máy ép,壓力機,n,Máy ép nhựa
+lò nhiệt,烘箱/熱爐,n,Sấy trong lò nhiệt
+van,閥門,n,Đóng van lại
+ống,管子,n,Ống nước bị rò
+bơm hơi,氣泵,n,Bơm hơi vào lốp
+máy nén khí,空氣壓縮機,n,Máy nén khí bị rò
+xe nâng,堆高機,n,Xe nâng chở hàng
+pallet,托板,n,Hàng để trên pallet
+băng chuyền,輸送帶,n,Đặt lên băng chuyền
+cần cẩu,起重機,n,Cần cẩu nâng hàng nặng
+giàn giáo,鷹架,n,Làm việc trên giàn giáo
+thang,梯子,n,Leo thang lên trên
+thùng chứa,容器/儲槽,n,Thùng chứa hóa chất
+xô,水桶,n,Xô nước
+khay,托盤,n,Khay đựng linh kiện
+băng dính,膠帶,n,Dán bằng băng dính
+dây buộc,綁帶,n,Buộc dây chặt
+bọc,包裹,v,Bọc sản phẩm lại
+niêm phong,密封/封存,v,Niêm phong thùng hàng
+kiểm định,檢定/校驗,v,Kiểm định thiết bị
+hiệu chuẩn,校準,v,Hiệu chuẩn máy đo
+bảo hành,保固,n,Còn trong thời gian bảo hành
+bảo trì,維護保養,n,Bảo trì định kỳ tháng này
+sự cố,事故/故障,n,Xử lý sự cố ngay
+tai nạn,事故/意外,n,Xảy ra tai nạn lao động
+phòng ngừa,預防,v,Phòng ngừa tai nạn
+ứng phó,應對/處理,v,Ứng phó khẩn cấp
+sơ cứu,急救/初步救治,n,Sơ cứu khi bị thương
+bình chữa cháy,滅火器,n,Bình chữa cháy ở đâu
+cửa thoát hiểm,緊急出口,n,Cửa thoát hiểm phía sau
+quy định an toàn,安全規定,n,Tuân thủ quy định an toàn
+phần mềm,軟體,n,Phần mềm quản lý
+phần cứng,硬體,n,Phần cứng máy tính
+hệ điều hành,作業系統,n,Hệ điều hành Windows
+lập trình,程式設計,n,Lập trình PLC
+code,程式碼,n,Viết code cho máy
+máy chủ,伺服器,n,Máy chủ bị lỗi
+dữ liệu,數據/資料,n,Lưu dữ liệu sản xuất
+cơ sở dữ liệu,資料庫,n,Cơ sở dữ liệu lớn
+bảo mật,資安/安全性,n,Bảo mật thông tin
+mật khẩu,密碼,n,Đổi mật khẩu
+tài khoản,帳號,n,Tài khoản người dùng
+đăng nhập,登入,v,Đăng nhập hệ thống
+đăng xuất,登出,v,Đăng xuất trước khi ra về
+đám mây,雲端,n,Lưu trên đám mây
+AI,人工智慧,n,Ứng dụng AI trong sản xuất
+robot,機器人,n,Robot hàn tự động
+tự động hóa,自動化,n,Tự động hóa dây chuyền
+QR code,QR碼,n,Quét QR code
+màn hình cảm ứng,觸控螢幕,n,Màn hình cảm ứng
+cảm biến,感測器,n,Cảm biến nhiệt độ
+điều khiển từ xa,遠端控制,n,Điều khiển từ xa
+huyết áp,血壓,n,Đo huyết áp
+tiểu đường,糖尿病,n,Bệnh tiểu đường
+tim mạch,心血管,n,Bệnh tim mạch
+viêm phổi,肺炎,n,Bị viêm phổi
+cúm,流感,n,Bị cúm rồi
+sốt xuất huyết,登革熱,n,Mùa sốt xuất huyết
+kháng sinh,抗生素,n,Uống kháng sinh
+giảm đau,止痛,n,Thuốc giảm đau
+hạ sốt,退燒,n,Thuốc hạ sốt
+vitamin,維他命,n,Uống vitamin C
+dinh dưỡng,營養,n,Ăn đủ dinh dưỡng
+cân nặng,體重,n,Cân nặng bao nhiêu
+siêu âm,超音波,n,Siêu âm thai
+X-quang,X光,n,Chụp X-quang phổi
+xét nghiệm máu,抽血檢查,n,Xét nghiệm máu tổng quát
+đơn thuốc,處方,n,Có đơn thuốc không
+nhà thuốc,藥局,n,Mua ở nhà thuốc gần đây
+cấp cứu,急救,n,Gọi xe cấp cứu
+chương trình học,課程/學習計畫,n,Chương trình học tiếng Việt
+tài liệu học,學習材料,n,Tài liệu học phát hành
+bài giảng,課程講義,n,Bài giảng hôm nay
+thuyết trình,簡報,n,Thuyết trình trước lớp
+nghiên cứu,研究,n,Nghiên cứu phương pháp mới
+thí nghiệm,實驗,n,Thí nghiệm trong phòng lab
+kết quả,結果,n,Kết quả kiểm tra tốt
+lý thuyết,理論,n,Học lý thuyết trước
+thực hành,實踐/實習,n,Thực hành trên dây chuyền
+kỹ năng mềm,軟技能,n,Kỹ năng mềm quan trọng
+làm việc nhóm,團隊合作,n,Kỹ năng làm việc nhóm
+giao tiếp,溝通,n,Giao tiếp tốt
+trung tâm thương mại,購物中心,n,Đi trung tâm thương mại
+cửa hàng tiện lợi,便利商店,n,Mua ở cửa hàng tiện lợi
+tiệm,小店,n,Tiệm tạp hóa gần nhà
+quán ăn,小餐館,n,Quán ăn ngon
+quán nhậu,酒館,n,Đi quán nhậu
+phòng gym,健身房,n,Đăng ký phòng gym
+sân thể thao,運動場,n,Chơi ở sân thể thao
+hồ bơi,游泳池,n,Bơi ở hồ bơi
+rạp chiếu phim,電影院,n,Xem phim ở rạp
+thư viện,圖書館,n,Mượn sách ở thư viện
+tòa nhà,大樓,n,Tòa nhà cao tầng
+chung cư,公寓,n,Sống ở chung cư
+khu công nghiệp,工業區,n,Làm việc ở khu công nghiệp
+khu đô thị,城市新區,n,Khu đô thị mới
+ngoại ô,郊區,n,Nhà ở ngoại ô thành phố
+cảng,港口,n,Cảng xuất khẩu hàng
+ga tàu,火車站,n,Đón khách ở ga tàu
+trạm xăng,加油站,n,Dừng ở trạm xăng
+đồn cảnh sát,警察局,n,Báo cáo ở đồn cảnh sát
+tòa án,法院,n,Đến tòa án
+tiền lương,薪水,n,Tiền lương tháng này
+tiền thưởng,獎金,n,Có tiền thưởng cuối năm
+phụ cấp,津貼/補貼,n,Phụ cấp ăn trưa
+trợ cấp,補助,n,Trợ cấp khó khăn
+nghỉ phép năm,年假,n,Còn mấy ngày nghỉ phép năm
+nghỉ lễ,假期,n,Ngày nghỉ lễ Tết
+tăng lương,加薪,n,Xin tăng lương
+cắt giảm,削減,n,Cắt giảm nhân sự
+sa thải,解僱,v,Bị sa thải rồi
+thôi việc,離職,v,Nộp đơn thôi việc
+bảo hiểm xã hội,勞工保險,n,Đóng bảo hiểm xã hội
+bảo hiểm y tế,健保,n,Thẻ bảo hiểm y tế
+thuế thu nhập,所得稅,n,Khấu trừ thuế thu nhập
+chuyển khoản,匯款,v,Chuyển khoản lương tháng
+rút tiền,提款,v,Rút tiền ở ATM
+gửi tiền,存款,v,Gửi tiền tiết kiệm
+vay tiền,借錢/貸款,v,Vay tiền mua nhà
+trả nợ,還債,v,Trả nợ đúng hạn
+lãi suất,利率,n,Lãi suất bao nhiêu
+tỷ giá,匯率,n,Tỷ giá đô la hôm nay
+đồng Việt Nam,越南盾,n,Thanh toán bằng đồng Việt Nam
+đài tệ,台幣,n,Đổi đài tệ sang đồng
+tỷ lệ,比率,n,Tỷ lệ đạt yêu cầu
+phần trăm,百分比,n,Chín mươi phần trăm
+số liệu,數據,n,Số liệu sản xuất hôm nay
+biểu đồ,圖表,n,Biểu đồ năng suất
+mục tiêu,目標,n,Mục tiêu tháng này
+chỉ tiêu,指標/指數,n,Chỉ tiêu sản lượng
+Việt Nam,越南,n,Tôi đến từ Việt Nam
+Đài Loan,台灣,n,Tôi làm việc ở Đài Loan
+Trung Quốc,中國,n,Hàng từ Trung Quốc
+Nhật Bản,日本,n,Máy móc Nhật Bản
+Hàn Quốc,韓國,n,Công nghệ Hàn Quốc
+Mỹ,美國,n,Tiêu chuẩn Mỹ
+người Việt,越南人,n,Người Việt chăm chỉ
+người Đài Loan,台灣人,n,Người Đài Loan thân thiện
+người nước ngoài,外國人,n,Nhiều người nước ngoài
+quốc tịch,國籍,n,Quốc tịch Việt Nam
+hộ chiếu,護照,n,Mang hộ chiếu theo
+visa,簽證,n,Visa lao động
+Hà Nội,河內,n,Hà Nội là thủ đô
+Hồ Chí Minh,胡志明市,n,Thành phố Hồ Chí Minh
+Đà Nẵng,峴港,n,Du lịch Đà Nẵng đẹp
+Huế,順化,n,Cơm Huế ngon
+Hội An,會安,n,Phố cổ Hội An
+Nha Trang,芽莊,n,Biển Nha Trang đẹp
+Đà Lạt,大叻,n,Đà Lạt mát mẻ
+Cần Thơ,芹苴,n,Cần Thơ miền Tây
+Hải Phòng,海防,n,Cảng Hải Phòng
+miền Bắc,北部,n,Quê tôi ở miền Bắc
+miền Nam,南部,n,Miền Nam nóng hơn
+miền Trung,中部,n,Miền Trung hay bão
+Tết Nguyên Đán,春節,n,Tết Nguyên Đán vui lắm
+Tết Trung Thu,中秋節,n,Tết Trung Thu có bánh
+lễ hội,節慶,n,Lễ hội mùa xuân
+phong tục,風俗,n,Phong tục địa phương
+tập quán,習俗,n,Tập quán văn hóa
+truyền thống,傳統,n,Giữ gìn truyền thống
+ẩm thực,飲食文化,n,Ẩm thực Việt Nam phong phú
+di sản,遺產,n,Di sản văn hóa
+áo dài,越南傳統長袍,n,Mặc áo dài đi lễ
+nón lá,越南斗笠,n,Đội nón lá che nắng
+phở bò,牛肉河粉,n,Ăn phở bò buổi sáng
+bún bò,牛肉米線,n,Bún bò Huế ngon
+bún chả,烤肉米線,n,Bún chả Hà Nội
+bánh xèo,越南煎餅,n,Bánh xèo giòn
+gỏi cuốn,生春捲,n,Gỏi cuốn tươi ngon
+chả giò,炸春捲,n,Chả giò chiên giòn
+cơm tấm,碎米飯,n,Cơm tấm sườn nướng
+hủ tiếu,越式米粉湯,n,Hủ tiếu Nam Vang
+bánh mì kẹp,越式三明治,n,Bánh mì kẹp thịt
+bánh cuốn,越南腸粉,n,Bánh cuốn nóng
+bún tươi,新鮮米線,n,Bún tươi mua ngoài chợ
+rau sống,生菜拼盤,n,Ăn kèm rau sống
+giá đỗ,豆芽,n,Giá đỗ trần
+nước chấm,醬料/沾醬,n,Nước chấm ngon
+tương hoisin,海鮮醬,n,Chấm với tương
+mắm tôm,蝦醬,n,Mắm tôm đặc sản
+xôi,糯米飯,n,Xôi xéo ngon
+bánh tráng,越南米紙/越南春捲皮,n,Cuốn với bánh tráng
+lẩu,火鍋,n,Ăn lẩu
+nướng,烤肉,n,Đi ăn nướng
+mực,魷魚,n,Mực nướng ngon
+bạch tuộc,章魚,n,Bạch tuộc xào
+hàu,生蠔,n,Hàu tươi
+nghêu,蛤蜊,n,Nghêu hấp sả
+sò,貝類,n,Sò nướng mỡ hành
+ghẹ,花蟹,n,Ghẹ hấp
+cá thu,鯖魚,n,Cá thu kho
+cá hồi,鮭魚,n,Cá hồi tươi
+cá ngừ,鮪魚,n,Cá ngừ đại dương
+chả cá,魚餅,n,Chả cá Lã Vọng
+bánh kem,蛋糕,n,Bánh kem sinh nhật
+kẹo,糖果,n,Ăn kẹo
+bánh,餅/蛋糕,n,Ăn bánh
+kem,冰淇淋,n,Ăn kem mát
+chè,甜湯/越式甜品,n,Uống chè
+sinh tố,果昔,n,Sinh tố xoài
+nước ép,果汁,n,Nước ép cà rốt
+trà sữa,珍珠奶茶,n,Uống trà sữa
+cà phê sữa đá,越式冰咖啡,n,Cà phê sữa đá ngon
+môi trường,環境,n,Bảo vệ môi trường
+không khí,空氣,n,Không khí trong lành
+ô nhiễm,污染,n,Ô nhiễm không khí
+khí hậu,氣候,n,Khí hậu nhiệt đới
+thiên nhiên,大自然,n,Thiên nhiên đẹp
+tài nguyên,資源,n,Tài nguyên thiên nhiên
+năng lượng,能源,n,Năng lượng tái tạo
+điện,電力,n,Điện bị cắt
+xăng,汽油,n,Đổ xăng
+dầu mỡ,潤滑油/油脂,n,Bôi dầu mỡ vào máy
+khí đốt,瓦斯/天然氣,n,Dùng khí đốt
+mặt trời,太陽,n,Năng lượng mặt trời
+mặt trăng,月亮,n,Ánh trăng sáng
+ngôi sao,星星,n,Bầu trời nhiều ngôi sao
+bầu trời,天空,n,Bầu trời xanh
+lũ lụt,洪水,n,Lũ lụt miền Trung
+hạn hán,乾旱,n,Hạn hán kéo dài
+động đất,地震,n,Động đất nhỏ
+sóng thần,海嘯,n,Cảnh báo sóng thần
+hào hứng,興奮,adj,Rất hào hứng với công việc
+phấn khích,激動興奮,adj,Phấn khích lắm
+tự tin,自信,adj,Nói chuyện tự tin
+ngại ngùng,不好意思/害羞,adj,Ngại ngùng khi gặp người lạ
+xấu hổ,羞恥/害羞,adj,Xấu hổ lắm
+tự hào,驕傲,adj,Tự hào về công ty
+ghen,嫉妒,v,Đừng ghen với người khác
+thất vọng,失望,adj,Thất vọng về kết quả
+bất ngờ,驚訝/意外,adj,Bất ngờ lắm
+ngạc nhiên,驚訝,adj,Ngạc nhiên quá
+tò mò,好奇,adj,Tò mò về cái này
+chán,無聊/厭倦,adj,Chán việc này rồi
+thư giãn,放鬆,v,Thư giãn sau giờ làm
+hài lòng,滿意,adj,Rất hài lòng
+không hài lòng,不滿意,adj,Không hài lòng chút nào
+kiên nhẫn,耐心,adj,Kiên nhẫn chờ đợi
+nóng tính,急性子,adj,Đừng nóng tính vậy
+bình tĩnh,冷靜,adj,Phải bình tĩnh lại
+vui vẻ,快樂/開朗,adj,Luôn vui vẻ
+hạnh phúc,幸福,adj,Sống hạnh phúc
+bình yên,平靜/平和,adj,Cuộc sống bình yên
+mệt mỏi,疲勞,adj,Mệt mỏi sau ca dài
+khỏe mạnh,健康,adj,Sống khỏe mạnh
+căng thẳng,壓力大/緊張,adj,Công việc căng thẳng
+lo lắng,擔心,adj,Lo lắng về tiến độ
+nhớ nhà,想家,v,Nhớ nhà lắm
+nói chuyện,說話/交談,v,Nói chuyện vui lắm
+trò chuyện,聊天,v,Trò chuyện thân thiện
+thảo luận,討論,v,Thảo luận phương án
+tranh luận,爭論,v,Tranh luận về chất lượng
+hòa giải,調解,v,Hòa giải mâu thuẫn
+thuyết phục,說服,v,Thuyết phục khách hàng
+đề xuất,提議,v,Đề xuất cải tiến
+kiến nghị,建議,v,Kiến nghị thay đổi
+phản đối,反對,v,Phản đối quyết định
+ủng hộ,支持,v,Ủng hộ ý kiến tốt
+phê bình,批評,v,Phê bình có xây dựng
+khen ngợi,讚美,v,Khen ngợi nhân viên giỏi
+động viên,鼓勵,v,Động viên khi khó khăn
+khuyến khích,激勵,v,Khuyến khích học thêm
+hứa,承諾,v,Hứa sẽ làm đúng giờ
+thú nhận,承認,v,Thú nhận lỗi sai
+tiết lộ,透露,v,Tiết lộ thông tin mật
+chào đón,歡迎,v,Chào đón nhân viên mới
+tham dự,參加,v,Tham dự cuộc họp
+vắng mặt,缺席,v,Vắng mặt không lý do
+đại diện,代表,v,Đại diện công ty
+ủy quyền,授權,v,Ủy quyền cho nhân viên
+phổ biến,普及/宣傳,v,Phổ biến nội quy
+tin tưởng,信任,v,Tin tưởng đồng nghiệp
+tôn trọng,尊重,v,Tôn trọng lẫn nhau
+hợp tác,合作,v,Hợp tác làm việc tốt
+chia sẻ,分享,v,Chia sẻ kinh nghiệm
+bổ sung,補充/添加,v,Bổ sung nguyên liệu
+thay thế,替換,v,Thay thế linh kiện hỏng
+nâng cấp,升級,v,Nâng cấp thiết bị
+giảm,減少,v,Giảm tỷ lệ lỗi
+tăng,增加,v,Tăng năng suất
+duy trì,維持,v,Duy trì chất lượng
+cải tiến,改善/改進,v,Cải tiến quy trình
+thử nghiệm,測試,v,Thử nghiệm sản phẩm mới
+vận chuyển,運輸,v,Vận chuyển hàng hóa
+lưu kho,入庫存放,v,Lưu kho chờ xuất
+thu hồi,回收,v,Thu hồi hàng lỗi
+trả hàng,退貨,v,Trả hàng cho nhà cung cấp
+khiếu nại,投訴,v,Khiếu nại về chất lượng
+bồi thường,賠償,v,Bồi thường thiệt hại
+hết hàng,缺買,adj,Hàng đã hết rồi
+còn hàng,有貨,adj,Còn hàng trong kho
+đặt trước,預訂,v,Đặt trước đơn hàng
+giao ngay,立即交貨,v,Giao ngay hôm nay
+dự phòng,備用/預備,adj,Linh kiện dự phòng
+hao mòn,磨損,v,Linh kiện bị hao mòn
+rò rỉ,洩漏,v,Dầu bị rò rỉ
+kẹt,卡住,v,Máy bị kẹt rồi
+quá tải,過載,v,Máy bị quá tải
+quá nhiệt,過熱,v,Động cơ bị quá nhiệt
+mất điện,停電,v,Mất điện đột ngột
+cúp điện,斷電,v,Khu vực bị cúp điện
+điện trở lại,來電,v,Điện đã trở lại rồi
+chập điện,短路,v,Dây điện bị chập
+tiếng ồn,噪音,n,Tiếng ồn quá lớn
+độ rung,振動/震動,n,Độ rung quá cao
+nhiệt độ,溫度,n,Nhiệt độ môi trường
+độ ẩm,濕度,n,Độ ẩm trong kho
+áp suất,壓力,n,Áp suất khí nén
+tốc độ,速度,n,Tốc độ băng chuyền
+công nghệ,技術/科技,n,Công nghệ sản xuất mới
+kỹ thuật,技術/工程,n,Kỹ thuật hàn
+phương pháp,方法,n,Phương pháp kiểm tra
+giải pháp,解決方案,n,Đề xuất giải pháp
+vấn đề,問題,n,Vấn đề kỹ thuật
+nguyên nhân,原因,n,Nguyên nhân hỏng máy
+kết quả,結果,n,Kết quả kiểm tra
+kết luận,結論,n,Kết luận cuộc họp
+đề án,提案/方案,n,Đề án cải tiến
+dự án,項目/專案,n,Dự án mở rộng nhà máy
+hạng mục,項目/科目,n,Hạng mục kiểm tra
+giai đoạn,階段,n,Giai đoạn sản xuất
+chu kỳ,週期,n,Chu kỳ sản xuất
+thời hạn,期限,n,Thời hạn giao hàng
+lịch,行程/日曆,n,Lịch làm việc tuần này
+lịch sản xuất,生產計畫表,n,Lịch sản xuất tháng tới
+đổi ca,換班,v,Đổi ca với bạn không
+làm thêm giờ,加班,v,Hôm nay làm thêm giờ
+điểm danh,點名,v,Điểm danh đầu ca
+vắng,缺席,adj,Vắng hôm nay
+bơi,游泳,v,Đi bơi mỗi sáng
+leo núi,爬山,v,Leo núi cuối tuần
+đạp xe,騎自行車,v,Đạp xe đi làm
+chạy bộ buổi sáng,晨跑,v,Chạy bộ buổi sáng mỗi ngày
+tập gym,上健身房,v,Tập gym ba lần một tuần
+đánh cầu lông,打羽毛球,v,Đánh cầu lông chiều thứ sáu
+đánh bóng bàn,打桌球,v,Đánh bóng bàn trong giờ nghỉ
+câu cá,釣魚,v,Câu cá giải trí
+xem ca nhạc,看演唱會,v,Xem ca nhạc cuối tuần
+cắm trại,露營,v,Đi cắm trại dã ngoại
+dạo phố,逛街/散步,v,Dạo phố cuối tuần
+nghe nhạc,聽音樂,v,Nghe nhạc khi làm việc
+chơi game,玩遊戲,v,Chơi game sau giờ làm
+đọc báo,看報紙,v,Đọc báo buổi sáng
+nấu ăn thử,嘗試烹飪,v,Nấu ăn thử món mới
+thể thao,體育/運動,n,Tập thể thao tốt cho sức khỏe
+sở thích,興趣愛好,n,Sở thích của tôi là đọc sách
+giải trí,娛樂,n,Xem phim giải trí
+nghỉ ngơi,休息,v,Nghỉ ngơi cuối tuần
+đi chơi,出去玩,v,Đi chơi với bạn bè
+thủ môn,守門員,n,Thủ môn bắt bóng tốt
+hậu vệ,後衛,n,Hậu vệ chơi hay
+tiền đạo,前鋒,n,Tiền đạo ghi bàn
+bàn thắng,進球/得分,n,Ghi bàn thắng
+bàn thua,失球,n,Thủ môn bắt hụt
+hòa,平手,v,Trận đấu kết thúc hòa
+thắng,贏/勝,v,Đội mình thắng rồi
+thua,輸,v,Thua đội kia
+huấn luyện viên,教練,n,Huấn luyện viên giỏi
+cầu thủ,球員,n,Cầu thủ chạy nhanh
+màn hình điện thoại,手機螢幕,n,Màn hình điện thoại vỡ
+pin hết,沒電,n,Pin hết rồi phải sạc
+tai nghe,耳機,n,Đeo tai nghe khi làm
+loa,喇叭,n,Loa to quá
+camera,攝影機/相機,n,Camera an ninh
+máy ảnh,相機,n,Chụp bằng máy ảnh
+thẻ nhớ,記憶卡,n,Thẻ nhớ đầy rồi
+cáp sạc,充電線,n,Cáp sạc điện thoại
+bộ sạc,充電器,n,Quên mang bộ sạc
+bộ định tuyến,路由器,n,Cài lại bộ định tuyến
+mạng không dây,無線網路,n,Kết nối mạng không dây
+tín hiệu,信號,n,Tín hiệu yếu
+kết nối,連接,v,Kết nối bluetooth
+ngắt kết nối,斷開連接,v,Ngắt kết nối wifi
+chia sẻ màn hình,分享螢幕,v,Chia sẻ màn hình họp
+gọi video,視訊通話,v,Gọi video với gia đình
+nhắn tin,傳訊息,v,Nhắn tin cho sếp
+gọi điện,打電話,v,Gọi điện hỏi thăm
+bỏ lỡ cuộc gọi,未接來電,n,Có bỏ lỡ cuộc gọi
+trả lời tin nhắn,回訊息,v,Trả lời tin nhắn ngay
+vé,票,n,Mua vé xe
+vé máy bay,機票,n,Đặt vé máy bay
+vé tàu,火車票,n,Mua vé tàu về quê
+phòng khách sạn,飯店房間,n,Đặt phòng khách sạn
+check in,入住,v,Check in khách sạn
+check out,退房,v,Check out lúc mười hai giờ
+hành lý,行李,n,Gửi hành lý
+túi du lịch,旅行袋,n,Chuẩn bị túi du lịch
+bản đồ,地圖,n,Xem bản đồ đường đi
+chỉ đường,指路,v,Chỉ đường đến đây
+lạc đường,迷路,v,Bị lạc đường rồi
+hỏi đường,問路,v,Hỏi đường đi đến ga
+đi thẳng,直走,v,Đi thẳng khoảng hai trăm mét
+quẹo phải,右轉,v,Quẹo phải ở ngã tư
+quẹo trái,左轉,v,Quẹo trái rồi đi thẳng
+thuê,租,v,Thuê nhà gần công ty
+mua nhà,買房,v,Muốn mua nhà trả góp
+bán nhà,賣房,v,Bán nhà chuyển chỗ ở
+xây nhà,蓋房子,v,Xây nhà mới
+sửa nhà,修繕房屋,v,Sửa nhà cho đẹp hơn
+dọn nhà,打掃/搬家,v,Dọn nhà mới về
+trang trí,裝飾,v,Trang trí phòng ngủ
+lau nhà,拖地,v,Lau nhà mỗi ngày
+quét nhà,掃地,v,Quét nhà sạch
+rửa bát,洗碗,v,Rửa bát sau khi ăn
+đổ rác,倒垃圾,v,Đổ rác mỗi tối
+phân loại rác,垃圾分類,v,Phân loại rác tái chế
+tiết kiệm điện,節約用電,v,Tiết kiệm điện mỗi ngày
+tắt điện khi ra,出去時關燈,v,Tắt điện khi ra khỏi phòng
+khóa cửa,鎖門,v,Khóa cửa trước khi đi
+mở khóa,開鎖,v,Mở khóa cửa
+chìa khóa,鑰匙,n,Quên chìa khóa ở nhà
+thang máy,電梯,n,Thang máy tầng mấy
+cầu thang,樓梯,n,Đi cầu thang bộ
+tầng một,一樓,n,Văn phòng tầng một
+tầng hai,二樓,n,Phòng ăn tầng hai
+tầng trệt,地面層,n,Khu vực sản xuất tầng trệt
+ban công,陽台,n,Phơi đồ ở ban công
+sân,庭院,n,Sân nhà rộng
+vườn,花園/菜園,n,Trồng rau trong vườn
+hàng rào,圍欄,n,Hàng rào xung quanh
+cổng,大門,n,Cổng nhà máy
+bảo vệ,保全人員,n,Bảo vệ cổng nhà máy
+khách,客人,n,Có khách đến
+tiếp khách,接待客人,v,Tiếp khách lịch sự
+phòng chờ,等候室,n,Ngồi ở phòng chờ
+tiếp tân,前台/接待,n,Hỏi tiếp tân
+lễ tân,禮賓/接待,n,Lễ tân hướng dẫn
+căng tin,員工餐廳,n,Ăn trưa ở căng tin
+suất ăn,餐份/便當,n,Lấy suất ăn phần
+giờ ăn,用餐時間,n,Giờ ăn trưa mười hai giờ
+giờ giải lao,休息時間,n,Giờ giải lao mười lăm phút
+ca ba,第三班,n,Ca ba làm đêm
+trực đêm,夜班值班,v,Trực đêm mệt lắm
+chấm công,打卡,v,Chấm công đầu và cuối ca
+máy chấm công,打卡機,n,Máy chấm công bị lỗi
+thẻ nhân viên,員工證,n,Quét thẻ nhân viên
+bảng lương,薪資單,n,Xem bảng lương tháng này
+ngày lương,發薪日,n,Ngày lương là ngày mấy
+lãnh lương,領薪水,v,Lãnh lương tháng này
+phiếu lương,工資條,n,Nhận phiếu lương
+khấu trừ,扣除,v,Khấu trừ bảo hiểm
+tạm ứng,預支,v,Xin tạm ứng lương
+hoàn ứng,歸還預支款,v,Hoàn ứng cuối tháng
+đơn xin phép,請假單,n,Nộp đơn xin phép
+đơn xin nghỉ,請假申請,n,Điền đơn xin nghỉ
+phê duyệt,審批,v,Sếp phê duyệt rồi
+chưa duyệt,未審批,adj,Đơn chưa được duyệt
+từ chối đơn,拒絕申請,v,Đơn bị từ chối
+quy trình nghỉ phép,請假流程,n,Quy trình xin nghỉ phép
+nội quy công ty,公司規定,n,Đọc nội quy công ty
+quy định mặc đồng phục,著裝規定,n,Quy định mặc đồng phục
+đồng phục,制服,n,Mặc đồng phục đi làm
+thẻ ra vào,門禁卡,n,Quên thẻ ra vào rồi
+khu vực hạn chế,限制區域,n,Không vào khu vực hạn chế
+biển báo,標誌,n,Đọc biển báo an toàn
+bảng thông báo,公告欄,n,Xem bảng thông báo
+cuộc họp buổi sáng,早會,n,Họp buổi sáng mỗi thứ hai
+báo cáo ngày,日報,n,Nộp báo cáo ngày
+báo cáo tuần,週報,n,Tổng hợp báo cáo tuần
+sản lượng,產量,n,Sản lượng hôm nay bao nhiêu
+số lượng,數量,n,Số lượng sản phẩm
+lỗ hổng,缺陷/漏洞,n,Phát hiện lỗ hổng
+vết nứt,裂縫,n,Phát hiện vết nứt trên sản phẩm
+vết xước,刮痕,n,Bề mặt có vết xước
+méo,變形,adj,Sản phẩm bị méo
+cong vênh,翹曲/彎曲,adj,Tấm kim loại bị cong vênh
+bavia,毛邊,n,Mài bavia cho sạch
+ố vàng,黃斑/褪色,adj,Bề mặt bị ố vàng
+mờ đục,霧狀/不透明,adj,Kính bị mờ đục
+nổi bọt,起泡,v,Lớp sơn nổi bọt
+bong tróc,剝落,v,Lớp mạ bị bong tróc
+rỉ sét,生鏽,v,Kim loại bị rỉ sét
+ăn mòn,腐蝕,v,Acid ăn mòn kim loại
+biến màu,變色,v,Sản phẩm bị biến màu
+nứt vỡ,破裂,v,Linh kiện bị nứt vỡ
+gãy,斷裂,v,Thanh bị gãy
+trọng lượng,重量,n,Trọng lượng sản phẩm
+khối lượng,質量/重量,n,Khối lượng hàng xuất
+thể tích,體積,n,Thể tích bình chứa
+kích cỡ,尺寸大小,n,Kích cỡ phù hợp không
+dung tích,容量,n,Dung tích bình là hai lít
+đường kính,直徑,n,Đường kính lỗ bao nhiêu
+bán kính,半徑,n,Bán kính vòng tròn
+chu vi,周長,n,Chu vi sản phẩm
+độ dày,厚度,n,Độ dày tấm thép
+mật độ,密度,n,Mật độ nguyên liệu
+độ cứng,硬度,n,Độ cứng vật liệu
+độ bền,耐久度,n,Độ bền sản phẩm cao
+chịu lực,承重,adj,Kết cấu chịu lực tốt
+chịu nhiệt,耐熱,adj,Vật liệu chịu nhiệt cao
+chống nước,防水,adj,Hộp chống nước
+chống bụi,防塵,adj,Máy chống bụi
+chống ăn mòn,防腐蝕,adj,Vật liệu chống ăn mòn
+không dẫn điện,不導電,adj,Vật liệu không dẫn điện
+dẫn điện,導電,adj,Đồng dẫn điện tốt
+nhiệt độ hoạt động,工作溫度,n,Nhiệt độ hoạt động tối đa
+phạm vi đo,測量範圍,n,Phạm vi đo của thiết bị
+sai số,誤差,n,Sai số cho phép bao nhiêu
+độ chính xác,精度,n,Độ chính xác cao
+dung sai,公差,n,Dung sai kích thước
+tiêu chí,評判標準,n,Tiêu chí nghiệm thu
+nghiệm thu,驗收,v,Nghiệm thu sản phẩm
+thanh lý,報廢/清算,v,Thanh lý thiết bị cũ
+tái sử dụng,重複使用,v,Tái sử dụng vật liệu
+tái chế,回收再利用,v,Tái chế phế liệu
+xử lý,處理,v,Xử lý chất thải
+phân tích nguyên nhân,原因分析,v,Phân tích nguyên nhân lỗi
+khắc phục,改正/矯正,v,Khắc phục lỗi ngay
+phòng ngừa tái phát,防止重複發生,v,Phòng ngừa lỗi tái phát
+cải tiến liên tục,持續改善,v,Cải tiến liên tục mỗi ngày
+báo cáo sự cố,故障報告,n,Viết báo cáo sự cố
+biên bản,會議記錄/紀錄,n,Lập biên bản kiểm tra
+ký tên,簽名,v,Ký tên vào biên bản
+đóng dấu,蓋章,v,Đóng dấu công ty
+phô tô copy,影印,v,Photo copy hồ sơ
+fax,傳真,v,Gửi fax đến đối tác
+scan hồ sơ,掃描文件,v,Scan hồ sơ lưu máy tính
+lưu trữ,存檔,v,Lưu trữ tài liệu
+tra cứu,查詢,v,Tra cứu lịch sử sản xuất
+thống kê,統計,v,Thống kê sản lượng tháng
+tổng kết,總結,v,Tổng kết cuối năm
+ghi nhận,記錄,v,Ghi nhận ý kiến
+phản hồi,回饋,n,Phản hồi của khách hàng
+nhận xét,評論/評語,n,Nhận xét của sếp
+đánh giá nhân viên,員工考核,n,Đánh giá nhân viên cuối quý
+kỳ thi,考試期間,n,Kỳ thi nghiệp vụ
+vượt chỉ tiêu,超標/超額達標,v,Tháng này vượt chỉ tiêu
+đạt kế hoạch,完成計畫,v,Đạt kế hoạch sản xuất
+không đạt,未達標,v,Không đạt yêu cầu tháng này
+thiếu hụt,短缺,n,Thiếu hụt nguyên liệu
+dư thừa,剩餘,n,Dư thừa hàng tồn kho
+cân đối,平衡,v,Cân đối cung cầu
+thổ cẩm,傳統刺繡布料,n,Vải thổ cẩm Tây Nguyên
+lụa,絲綢,n,Áo lụa mềm đẹp
+cotton,棉布,n,Vải cotton thoáng mát
+polyester,聚酯纖維,n,Vải polyester bền
+len,羊毛,n,Áo len ấm
+nỉ,羊毛呢/毛氈,n,Vải nỉ dày
+denim,牛仔布,n,Quần denim
+thun,彈性布/棉T恤布,n,Áo thun thể thao
+tơ,絲/蠶絲,n,Khăn tơ lụa mịn
+voan,薄紗,n,Vải voan nhẹ
+may,縫製/裁縫,v,May áo mới
+cắt vải,裁布,v,Cắt vải theo mẫu
+thêu,刺繡,v,Thêu hoa trên áo
+dệt,編織/紡織,v,Dệt vải
+nhuộm,染色,v,Nhuộm màu vải
+giặt khô,乾洗,v,Giặt khô áo vest
+phơi khô,晾乾,v,Phơi khô quần áo
+ủi phẳng,燙平,v,Ủi phẳng áo sơ mi
+khâu,縫/縫合,v,Khâu vá quần áo
+vá,修補,v,Vá lại lỗ thủng
+thắt nút,打結,v,Thắt nút cà vạt
+cài nút,扣扣子,v,Cài nút áo
+kéo khóa,拉拉鍊,v,Kéo khóa túi lên
+thay dây,換帶子/換繩,v,Thay dây giày mới
+đánh xi,擦鞋油,v,Đánh xi giày sạch bóng
+cặp,公事包/文件夾,n,Cặp tài liệu
+balo,背包,n,Đeo balo đi làm
+ví,錢包,n,Ví da nam
+khăn,毛巾/圍巾,n,Khăn tắm sạch
+khăn lụa,絲巾,n,Quàng khăn lụa
+nơ,蝴蝶結,n,Cài nơ lên tóc
+nhẫn,戒指,n,Nhẫn vàng
+vòng tay,手鍊,n,Vòng tay bạc
+dây chuyền,項鍊,n,Dây chuyền vàng
+bông tai,耳環,n,Đeo bông tai
+trâm cài tóc,髮夾,n,Trâm cài tóc đẹp
+gương,鏡子,n,Nhìn vào gương
+lược,梳子,n,Chải tóc bằng lược
+sấy tóc,吹風機,n,Sấy tóc cho khô
+cạo râu,刮鬍子,v,Cạo râu mỗi sáng
+dao cạo,刮鬍刀,n,Dao cạo dùng một lần
+kem đánh răng,牙膏,n,Chải răng bằng kem đánh răng
+bàn chải đánh răng,牙刷,n,Thay bàn chải đánh răng
+nước súc miệng,漱口水,n,Dùng nước súc miệng
+xà phòng,肥皂,n,Rửa tay bằng xà phòng
+dầu gội,洗髮精,n,Gội đầu bằng dầu gội
+sữa tắm,沐浴乳,n,Tắm bằng sữa tắm
+kem dưỡng da,護膚霜/乳液,n,Thoa kem dưỡng da
+kem chống nắng,防曬乳,n,Thoa kem chống nắng
+son môi,口紅,n,Tô son môi
+phấn,粉底/面粉,n,Trang điểm nhẹ
+nước hoa,香水,n,Xịt nước hoa
+giấy vệ sinh,衛生紙,n,Mua thêm giấy vệ sinh
+khăn giấy,面紙,n,Lấy khăn giấy
+băng vệ sinh,衛生棉,n,Mua băng vệ sinh
+bông,棉花/棉球,n,Thấm bằng bông
+cồn,酒精,n,Sát khuẩn bằng cồn
+băng bó,繃帶,n,Băng bó vết thương
+thuốc đỏ,紅藥水,n,Bôi thuốc đỏ vào vết thương
+nhiệt kế,體溫計,n,Đo bằng nhiệt kế
+máy đo huyết áp,血壓計,n,Dùng máy đo huyết áp
+nạng,拐杖,n,Đi nạng sau phẫu thuật
+xe lăn,輪椅,n,Đẩy xe lăn
+cáng,擔架,n,Chuyển bằng cáng
+tủ thuốc,藥箱,n,Tủ thuốc sơ cứu
+phòng y tế,醫務室,n,Đến phòng y tế
+bác sĩ công ty,廠醫,n,Bác sĩ công ty khám miễn phí
+tiêm phòng,預防接種,v,Tiêm phòng cúm hàng năm
+khám sức khỏe định kỳ,定期健康檢查,n,Khám sức khỏe định kỳ mỗi năm
