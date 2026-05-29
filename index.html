@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>越南語每日練習</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 畫面 1：首頁 -->
+  <div id="screen-home" class="screen">
+    <div class="card-container">
+      <header>
+        <h1>🇻🇳 越南語每日練習</h1>
+        <p id="today-date" class="date-label"></p>
+      </header>
+      <div class="stats-grid">
+        <div class="stat-box">
+          <span id="count-review" class="stat-num">—</span>
+          <span class="stat-label">今日待複習</span>
+        </div>
+        <div class="stat-box">
+          <span id="count-new" class="stat-num">—</span>
+          <span class="stat-label">新單字</span>
+        </div>
+      </div>
+      <div class="streak-bar">
+        連續 <span id="streak-count">0</span> 天 🔥
+      </div>
+      <button id="btn-start" class="btn-primary" disabled>載入中...</button>
+    </div>
+  </div>
+
+  <!-- 畫面 2：答題 -->
+  <div id="screen-quiz" class="screen hidden">
+    <div class="card-container">
+      <div class="quiz-meta">
+        <span id="quiz-progress">0 / 0</span>
+        <span id="quiz-direction" class="tag"></span>
+      </div>
+      <div class="progress-bar"><div id="progress-fill"></div></div>
+
+      <div id="word-card" class="word-card">
+        <div id="word-display"></div>
+        <button id="btn-audio" class="btn-audio">🔊</button>
+      </div>
+
+      <div id="choice-area" class="hidden">
+        <div class="choices" id="choices"></div>
+      </div>
+
+      <div id="input-area" class="hidden">
+        <input type="text" id="answer-input" class="answer-input" placeholder="輸入答案..." autocomplete="off">
+        <button id="btn-submit" class="btn-primary">確認</button>
+      </div>
+
+      <div id="feedback" class="hidden"></div>
+      <button id="btn-next" class="btn-primary hidden">下一題 →</button>
+    </div>
+  </div>
+
+  <!-- 畫面 3：結算 -->
+  <div id="screen-result" class="screen hidden">
+    <div class="card-container">
+      <div class="result-header">
+        <div class="result-emoji">🎉</div>
+        <h2>今日完成！</h2>
+      </div>
+      <div class="score-box">
+        <span id="score-pct" class="score-pct">—%</span>
+        <span id="score-detail" class="score-detail"></span>
+      </div>
+      <div id="weak-list" class="weak-list"></div>
+      <div class="tomorrow-info">
+        明日待複習：<span id="tomorrow-count">—</span> 題
+      </div>
+      <div class="streak-bar">
+        連續 <span id="result-streak">0</span> 天 🔥
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
